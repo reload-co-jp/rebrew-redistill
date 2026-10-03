@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "chiyoda",
+    "name": "千代田区",
+    "description": "皇居を中心に、丸の内・神田・秋葉原を抱える東京の中心。"
+  },
+  {
+    "slug": "chuo",
+    "name": "中央区",
+    "description": "日本橋・銀座・月島。商いと水辺の街。"
+  },
+  {
+    "slug": "minato",
+    "name": "港区",
+    "description": "芝・新橋・品川駅周辺から湾岸まで広がる区。"
+  },
+  {
+    "slug": "shinjuku",
+    "name": "新宿区",
+    "description": "巨大ターミナルと神楽坂の路地が同居する区。"
+  },
+  {
+    "slug": "bunkyo",
+    "name": "文京区",
+    "description": "坂と文教の街。本郷・小石川・根津。"
+  },
+  {
+    "slug": "taito",
+    "name": "台東区",
+    "description": "上野・浅草・蔵前。職人と問屋の下町。"
+  },
+  {
+    "slug": "sumida",
+    "name": "墨田区",
+    "description": "隅田川の東、両国・向島・押上。ものづくりの町工場が残る。"
+  },
+  {
+    "slug": "koto",
+    "name": "江東区",
+    "description": "清澄白河・門前仲町から湾岸まで。運河の街。"
+  },
+  {
+    "slug": "shinagawa",
+    "name": "品川区",
+    "description": "旧東海道の宿場町と大井・五反田のオフィス街。"
+  },
+  {
+    "slug": "meguro",
+    "name": "目黒区",
+    "description": "目黒川沿いの住宅地と自由が丘・中目黒。"
+  },
+  {
+    "slug": "ota",
+    "name": "大田区",
+    "description": "蒲田・大森・羽田。町工場の集積地。"
+  },
+  {
+    "slug": "setagaya",
+    "name": "世田谷区",
+    "description": "三軒茶屋・下北沢・二子玉川。23区最大の人口。"
+  },
+  {
+    "slug": "shibuya",
+    "name": "渋谷区",
+    "description": "渋谷・恵比寿・代々木。"
+  },
+  {
+    "slug": "nakano",
+    "name": "中野区",
+    "description": "中野ブロードウェイと住宅街の区。"
+  },
+  {
+    "slug": "suginami",
+    "name": "杉並区",
+    "description": "高円寺・阿佐ケ谷・荻窪。中央線沿線の街。"
+  },
+  { "slug": "toshima", "name": "豊島区", "description": "池袋・巣鴨・大塚。" },
+  { "slug": "kita", "name": "北区", "description": "赤羽・王子・田端。" },
+  {
+    "slug": "arakawa",
+    "name": "荒川区",
+    "description": "日暮里・町屋・南千住。都電の走る街。"
+  },
+  {
+    "slug": "itabashi",
+    "name": "板橋区",
+    "description": "旧中山道の宿場町と工業地帯。"
+  },
+  { "slug": "nerima", "name": "練馬区", "description": "畑の残る住宅地の区。" },
+  {
+    "slug": "adachi",
+    "name": "足立区",
+    "description": "北千住・西新井。荒川の北側。"
+  },
+  {
+    "slug": "katsushika",
+    "name": "葛飾区",
+    "description": "柴又・亀有・立石。"
+  },
+  {
+    "slug": "edogawa",
+    "name": "江戸川区",
+    "description": "葛西・小岩。江戸川と荒川に挟まれた区。"
+  }
+]

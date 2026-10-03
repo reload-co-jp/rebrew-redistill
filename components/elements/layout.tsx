@@ -1,49 +1,79 @@
-import { ComponentProps, FC, ReactNode } from "react"
+import Link from "next/link"
+import { SITE_NAME, TAGLINE } from "@/lib/seo"
 
-export const Title: FC<ComponentProps<"h1">> = ({
-  style,
-  children,
-  ...props
-}) => (
-  <h1 style={{ fontSize: "1rem", margin: 0, ...style }} {...props}>
-    {children}
-  </h1>
-)
+const NAV = [
+  ["/makers/", "醸造所・蒸留所"],
+  ["/articles/", "訪問記事"],
+  ["/areas/", "区"],
+  ["/types/", "酒類"],
+  ["/map/", "地図"],
+] as const
 
-export const Header: FC<{ children: ReactNode }> = ({ children }) => (
-  <header
-    style={{
-      backgroundColor: "#333",
-      boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-      padding: ".5rem 1rem",
-      position: "relative",
-    }}
-  >
-    {children}
+export const Header = () => (
+  <header className="border-b border-line">
+    <div className="mx-auto flex max-w-6xl flex-wrap items-end justify-between gap-4 px-4 py-5">
+      <Link href="/" className="leading-tight">
+        <span className="block text-xl font-bold tracking-tight">
+          {SITE_NAME}
+        </span>
+        <span className="block text-xs text-muted">{TAGLINE}</span>
+      </Link>
+      <nav aria-label="メイン">
+        <ul className="flex flex-wrap gap-x-5 gap-y-1 text-sm">
+          {NAV.map(([href, label]) => (
+            <li key={href}>
+              <Link href={href} className="hover:text-copper">
+                {label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </div>
   </header>
 )
 
-export const Main: FC<{ children: ReactNode }> = ({ children }) => (
-  <main
-    style={{
-      background: "#222",
-      minHeight: "calc(100dvh - 5.625rem)",
-      padding: "1rem",
-    }}
-  >
-    {children}
-  </main>
+export const Footer = () => (
+  <footer className="mt-24 bg-ink text-paper">
+    <div className="mx-auto max-w-6xl px-4 py-12 text-sm leading-relaxed">
+      <p className="text-lg font-bold">{SITE_NAME}</p>
+      <p>{TAGLINE}</p>
+      <p className="mt-6 text-xs opacity-70">Tokyo, Japan</p>
+    </div>
+  </footer>
 )
 
-export const Footer: FC<{ children: ReactNode }> = ({ children }) => (
-  <footer
-    style={{
-      backgroundColor: "#333",
-      boxShadow: "0 -4px 6px rgba(0, 0, 0, 0.1)",
-      fontSize: ".75rem",
-      padding: "1rem",
-    }}
-  >
+export const Section = ({
+  title,
+  more,
+  children,
+}: {
+  title: string
+  more?: string
+  children: React.ReactNode
+}) => (
+  <section className="mt-20">
+    <div className="mb-6 flex items-baseline justify-between border-b border-ink pb-2">
+      <h2 className="text-2xl font-bold tracking-tight">{title}</h2>
+      {more && (
+        <Link href={more} className="text-sm hover:text-copper">
+          すべて見る →
+        </Link>
+      )}
+    </div>
     {children}
-  </footer>
+  </section>
+)
+
+export const PageTitle = ({
+  title,
+  lead,
+}: {
+  title: string
+  lead?: string
+}) => (
+  <header className="mb-10">
+    <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{title}</h1>
+    {lead && <p className="mt-3 text-muted">{lead}</p>}
+  </header>
 )

@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "beer",
+    "name": "ビール",
+    "category": "brewery",
+    "label": "クラフトビール醸造所"
+  },
+  {
+    "slug": "sake",
+    "name": "日本酒",
+    "category": "brewery",
+    "label": "日本酒酒蔵"
+  },
+  {
+    "slug": "wine",
+    "name": "ワイン",
+    "category": "brewery",
+    "label": "ワイナリー"
+  },
+  {
+    "slug": "other-brewed",
+    "name": "その他の醸造酒",
+    "category": "brewery",
+    "label": "醸造所"
+  },
+  {
+    "slug": "gin",
+    "name": "ジン",
+    "category": "distillery",
+    "label": "クラフトジン蒸留所"
+  },
+  {
+    "slug": "whisky",
+    "name": "ウイスキー",
+    "category": "distillery",
+    "label": "ウイスキー蒸留所"
+  },
+  {
+    "slug": "shochu",
+    "name": "焼酎",
+    "category": "distillery",
+    "label": "焼酎蒸留所"
+  },
+  {
+    "slug": "spirits",
+    "name": "スピリッツ",
+    "category": "distillery",
+    "label": "スピリッツ蒸留所"
+  },
+  {
+    "slug": "other-distilled",
+    "name": "その他の蒸留酒",
+    "category": "distillery",
+    "label": "蒸留所"
+  }
+]

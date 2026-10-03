@@ -1,0 +1,19 @@
+{
+  "id": "sample-kiyosumi-brewery",
+  "name": "清澄サンプルブルワリー",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "清澄白河",
+  "address": "東京都江東区清澄（サンプル）",
+  "latitude": 35.681,
+  "longitude": 139.799,
+  "nearestStations": ["清澄白河駅"],
+  "description": "サンプルデータ。タップルーム併設のマイクロブルワリーという想定。",
+  "bar": true,
+  "restaurant": true,
+  "onlineShop": true,
+  "sourceUrls": ["https://example.com"],
+  "createdAt": "2026-10-04",
+  "updatedAt": "2026-10-04"
+}

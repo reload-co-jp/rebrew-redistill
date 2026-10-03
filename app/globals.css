@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f4f1ea;
+  --color-ink: #1c1b19;
+  --color-muted: #6b675f;
+  --color-line: #d8d2c4;
+  --color-copper: #b4532a;
+  --font-sans:
+    "Helvetica Neue", Arial, "Hiragino Sans", "Noto Sans JP", sans-serif;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+.prose-article h2 {
+  margin: 3rem 0 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border-top: 1px solid var(--color-line);
+  padding-top: 1.5rem;
+}
+.prose-article h3 {
+  margin: 2rem 0 0.75rem;
+  font-weight: 700;
+}
+.prose-article p,
+.prose-article ul {
+  margin: 1rem 0;
+  line-height: 2;
+}
+.prose-article img {
+  width: 100%;
+  margin: 2rem 0;
+}
+.prose-article a {
+  color: var(--color-copper);
+  text-decoration: underline;
+}

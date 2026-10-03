@@ -1,0 +1,17 @@
+{
+  "id": "sample-shiba-sakagura",
+  "name": "芝サンプル酒蔵",
+  "category": "brewery",
+  "types": ["sake"],
+  "ward": "minato",
+  "area": "芝",
+  "address": "東京都港区芝（サンプル）",
+  "latitude": 35.652,
+  "longitude": 139.75,
+  "nearestStations": ["田町駅", "三田駅"],
+  "description": "サンプルデータ。ビルの中の小さな酒蔵という想定。",
+  "shop": true,
+  "sourceUrls": ["https://example.com"],
+  "createdAt": "2026-10-04",
+  "updatedAt": "2026-10-04"
+}

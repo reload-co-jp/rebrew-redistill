@@ -12,6 +12,13 @@
   "restaurant": true,
   "website": "https://www.bookroad.tokyo/",
   "memo": "番地未確認。訪問前に要確認。",
+  "images": [
+    {
+      "src": "/images/bookroad-winery-ogp.jpg",
+      "alt": "BookRoad 〜葡蔵人〜のワインボトルとグラス",
+      "caption": "画像: BookRoad 公式サイト"
+    }
+  ],
   "sourceUrls": [
     "https://www.bookroad.tokyo/about",
     "https://getnavi.jp/cuisine/407122/view-all/"

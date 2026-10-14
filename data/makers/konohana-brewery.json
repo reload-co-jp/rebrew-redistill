@@ -1,0 +1,21 @@
+{
+  "id": "konohana-brewery",
+  "name": "木花之醸造所",
+  "category": "brewery",
+  "types": ["other-brewed"],
+  "ward": "taito",
+  "area": "駒形",
+  "address": "東京都台東区駒形2-5-5 小宮ビルB1",
+  "latitude": 35.706699,
+  "longitude": 139.794861,
+  "nearestStations": ["浅草駅"],
+  "description": "2020年誕生のどぶろく醸造所。米と米麹のどぶろくやフルーツを使った酒を醸す。併設バル「ALL(W)RIGHT -sake place-」で飲める。",
+  "visitable": true,
+  "bar": true,
+  "sourceUrls": [
+    "https://t-navi.city.taito.lg.jp/features/24",
+    "https://san-tatsu.jp/spots/158231/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

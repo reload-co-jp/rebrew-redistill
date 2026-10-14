@@ -1,0 +1,23 @@
+{
+  "id": "tokyo-riverside-distillery",
+  "name": "東京リバーサイド蒸溜所",
+  "category": "distillery",
+  "types": ["gin"],
+  "ward": "taito",
+  "area": "蔵前",
+  "address": "東京都台東区蔵前3-9-3",
+  "latitude": 35.704697,
+  "longitude": 139.790588,
+  "nearestStations": ["蔵前駅"],
+  "description": "エシカル・スピリッツが運営する再生型蒸留所。酒粕など日本酒の副産物を原料にクラフトジンを造る。1階がオフィシャルストア、2階がバー＆ダイニング。",
+  "visitable": true,
+  "shop": true,
+  "bar": true,
+  "website": "https://ethicalspirits.jp/",
+  "sourceUrls": [
+    "https://ethicalspirits.jp/distillery/trd/",
+    "https://t-navi.city.taito.lg.jp/features/98"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

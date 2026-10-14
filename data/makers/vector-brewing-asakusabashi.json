@@ -1,0 +1,19 @@
+{
+  "id": "vector-brewing-asakusabashi",
+  "name": "VECTOR BREWING 浅草橋醸造所",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "area": "浅草橋",
+  "address": "東京都台東区浅草橋4-7（番地未確認）",
+  "nearestStations": ["浅草橋駅"],
+  "description": "2019年開設（旧クラフトビールカンパニー）。代表作は「ねこぱんち」。瓶ビールを直売。",
+  "shop": true,
+  "memo": "番地未確認。訪問前に要確認。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://craft-beer.life/brewery/craftbeercompany"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

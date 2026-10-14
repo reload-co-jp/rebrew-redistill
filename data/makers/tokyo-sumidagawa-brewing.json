@@ -1,0 +1,20 @@
+{
+  "id": "tokyo-sumidagawa-brewing",
+  "name": "TOKYO隅田川ブルーイング",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "sumida",
+  "area": "吾妻橋",
+  "address": "東京都墨田区吾妻橋1-23-36 アサヒビールアネックス",
+  "latitude": 35.709381,
+  "longitude": 139.800537,
+  "nearestStations": ["浅草駅"],
+  "description": "アサヒビール直営。1995年に吾妻橋で東京初のクラフトビールを造った醸造所。定番はケルシュスタイル、香るヴァイツェン、吾妻橋ペールエール、ビタースタウト。",
+  "memo": "2026年3月に併設店が「BEER DINER SUPER DRY TOKYO」へ改装され、店でのクラフトビール提供は終了。醸造継続か要確認。",
+  "sourceUrls": [
+    "https://we-love-beer.com/sumida-ku-brewery-guide/",
+    "https://we-love-beer.com/tokyo-sumidagawa-brewing/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

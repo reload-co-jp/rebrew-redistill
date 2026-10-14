@@ -1,0 +1,21 @@
+{
+  "id": "bookroad-winery",
+  "name": "BookRoad 〜葡蔵人〜",
+  "category": "brewery",
+  "types": ["wine"],
+  "ward": "taito",
+  "area": "御徒町",
+  "address": "東京都台東区台東3丁目（番地未確認）",
+  "nearestStations": ["御徒町駅"],
+  "description": "2017年醸造開始の都市型ワイナリー。自社農園・契約農家のぶどうを都内で仕込む。レストラン併設。",
+  "visitable": true,
+  "restaurant": true,
+  "website": "https://www.bookroad.tokyo/",
+  "memo": "番地未確認。訪問前に要確認。",
+  "sourceUrls": [
+    "https://www.bookroad.tokyo/about",
+    "https://getnavi.jp/cuisine/407122/view-all/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

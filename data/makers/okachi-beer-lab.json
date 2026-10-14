@@ -1,0 +1,18 @@
+{
+  "id": "okachi-beer-lab",
+  "name": "東京ブッチャーズ with OKACHI Beer Lab",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "area": "御徒町",
+  "address": "東京都台東区上野5-10-9",
+  "latitude": 35.70525,
+  "longitude": 139.774231,
+  "nearestStations": ["御徒町駅"],
+  "description": "御徒町のJR高架下にあるブリューパブ。2018年12月開業。炭火の塊肉と自家醸造ビールを合わせる。",
+  "bar": true,
+  "restaurant": true,
+  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "romeo-brewery",
+  "name": "Romeo Brewery",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "sumida",
+  "area": "押上",
+  "address": "東京都墨田区押上2-12-3 1F",
+  "latitude": 35.712353,
+  "longitude": 139.811905,
+  "nearestStations": ["押上駅"],
+  "description": "2024年1月開業のブルーパブ。10タップすべて自家醸造。梅のゴーゼやハーブを使うセゾンなど。料理はハーブを使ったイタリアン。",
+  "closedDays": "月曜・火曜",
+  "bar": true,
+  "restaurant": true,
+  "sourceUrls": [
+    "https://we-love-beer.com/sumida-ku-brewery-guide/",
+    "https://sumidaku2shin.com/archives/24232706.html"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

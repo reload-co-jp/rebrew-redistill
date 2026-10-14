@@ -1,0 +1,23 @@
+{
+  "id": "anchor-point-brewery",
+  "name": "Anchor Point BREWERY",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "chiyoda",
+  "area": "平河町",
+  "address": "東京都千代田区平河町2-6-4 日本海運会館1F",
+  "latitude": 35.679234,
+  "longitude": 139.739197,
+  "nearestStations": ["永田町駅", "赤坂見附駅"],
+  "description": "KICHIRI運営。2016年7月開業、千代田区で初めて醸造免許を取得。薪火ステーキと自家醸造ビールの店。",
+  "openingHours": "11:30–22:00",
+  "closedDays": "ビル休館日",
+  "bar": true,
+  "restaurant": true,
+  "sourceUrls": [
+    "https://we-love-beer.com/chiyoda-brewery-guide/",
+    "https://www.nta.go.jp/taxes/sake/menkyo/shinki/seizo/02/r01/10/03.htm"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "uokin-brewing-stand",
+  "name": "魚金醸造スタンド",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "chiyoda",
+  "area": "神田錦町",
+  "address": "東京都千代田区神田錦町2-2-1 KANDA SQUARE 1F",
+  "latitude": 35.693214,
+  "longitude": 139.763214,
+  "nearestStations": ["小川町駅", "淡路町駅", "新御茶ノ水駅"],
+  "description": "魚金運営。2020年8月免許取得、神田初の醸造所併設店。常時6種、立ち飲みのみ。",
+  "openingHours": "16:00–21:00",
+  "closedDays": "土日祝",
+  "bar": true,
+  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

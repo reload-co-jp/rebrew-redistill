@@ -1,0 +1,21 @@
+{
+  "id": "miyata-beer",
+  "name": "ミヤタビール",
+  "category": "brewery",
+  "types": ["beer", "other-brewed", "other-distilled"],
+  "ward": "sumida",
+  "area": "横川",
+  "address": "東京都墨田区横川3-12-19 松井ビル1F",
+  "latitude": 35.704464,
+  "longitude": 139.813736,
+  "nearestStations": ["押上駅"],
+  "description": "2014年開業の小さなブルーパブ。1回約100Lをブルワー一人で仕込む。シードルや果実蒸留酒ラキヤも造る。店外の自販機で缶を販売（5:00–23:00）。",
+  "bar": true,
+  "shop": true,
+  "sourceUrls": [
+    "https://we-love-beer.com/sumida-ku-brewery-guide/",
+    "https://www.winery.or.jp/winery-map/9964/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

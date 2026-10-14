@@ -1,0 +1,18 @@
+{
+  "id": "shinobazu-brewery",
+  "name": "シノバズブルワリー ひつじあいす",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "area": "上野",
+  "address": "東京都台東区上野2-10-7",
+  "latitude": 35.709152,
+  "longitude": 139.771744,
+  "nearestStations": ["上野広小路駅"],
+  "description": "2021年開業。店内の醸造工房で造るクラフトビールと羊料理の店。",
+  "bar": true,
+  "restaurant": true,
+  "sourceUrls": ["https://newscast.jp/news/6780634"],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

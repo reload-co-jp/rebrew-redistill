@@ -1,0 +1,19 @@
+{
+  "id": "buzzed-lamb-brewing",
+  "name": "BUZZED LAMB BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "area": "谷中",
+  "address": "東京都台東区谷中（番地未確認）",
+  "nearestStations": ["千駄木駅", "日暮里駅"],
+  "description": "2024年8月開業。酒屋「伊勢五本店」の元店舗だった築100年の古民家を使うブリューパブ。",
+  "bar": true,
+  "memo": "番地未確認。訪問前に要確認。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://beertengoku.com/2025/09/10/buzzed-lamb-brewing/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

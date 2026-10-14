@@ -1,0 +1,17 @@
+{
+  "id": "this-brewing",
+  "name": "THIS BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "address": "東京都台東区（番地未確認）",
+  "nearestStations": ["湯島駅"],
+  "description": "2023年7月開業。1階が醸造所兼立ち飲み、2階がタップルーム。",
+  "bar": true,
+  "memo": "番地未確認。訪問前に要確認。",
+  "sourceUrls": [
+    "https://beertengoku.com/2024/09/25/this-brewing-taito-tokyo/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pherment-brewing",
+  "name": "PHERMENT BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "taito",
+  "area": "蔵前",
+  "address": "東京都台東区蔵前（番地未確認）",
+  "nearestStations": ["蔵前駅"],
+  "description": "厩橋近くのブルワリー。「Neon」「Putty」「YOOFEE」などを造る。",
+  "memo": "番地未確認。訪問前に要確認。",
+  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

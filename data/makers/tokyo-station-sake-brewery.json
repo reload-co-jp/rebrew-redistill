@@ -1,0 +1,25 @@
+{
+  "id": "tokyo-station-sake-brewery",
+  "name": "東京駅酒造場",
+  "category": "brewery",
+  "types": ["sake", "other-brewed"],
+  "ward": "chiyoda",
+  "area": "丸の内",
+  "address": "東京都千代田区丸の内1-9-1 JR東京駅 グランスタ東京 B1",
+  "latitude": 35.681252,
+  "longitude": 139.767242,
+  "nearestStations": ["東京駅"],
+  "description": "はせがわ酒店に併設されたエキナカ酒蔵。2020年開業。256Lの小型タンクでどぶろく・日本酒を仕込み、工程をガラス越しに見られる。",
+  "visitable": true,
+  "shop": true,
+  "sns": {
+    "x": "https://x.com/tokyostabrewery",
+    "instagram": "https://www.instagram.com/tokyostation_sakebrewery/"
+  },
+  "memo": "改札内。グランスタ改装予定あり、位置要確認。",
+  "sourceUrls": [
+    "https://www.gransta.jp/mall/gransta_tokyo/hasegawasaketen_granstatokyo/"
+  ],
+  "createdAt": "2026-10-15",
+  "updatedAt": "2026-10-15"
+}

@@ -8,8 +8,11 @@ import { Breadcrumbs, JsonLd, SITE_NAME, SITE_URL, pageMeta } from "@/lib/seo"
 type Props = { params: Promise<{ article: string }> }
 
 export const dynamicParams = false
-export const generateStaticParams = async () =>
-  (await getArticles()).map((a) => ({ article: a.slug }))
+// output: export は空配列不可 → 記事0件時は 404 になるダミーを1件返す
+export const generateStaticParams = async () => {
+  const params = (await getArticles()).map((a) => ({ article: a.slug }))
+  return params.length ? params : [{ article: "_" }]
+}
 
 export const generateMetadata = async ({ params }: Props) => {
   const { article } = await getArticle((await params).article)

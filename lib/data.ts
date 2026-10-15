@@ -1,5 +1,6 @@
 import fs from "node:fs"
 import path from "node:path"
+import { notFound } from "next/navigation"
 import type { ComponentType } from "react"
 import type { Category } from "./master"
 
@@ -60,7 +61,8 @@ const DATA = path.join(process.cwd(), "data")
 const listFiles = (dir: string, ext: string) =>
   fs
     .readdirSync(path.join(DATA, dir))
-    .filter((f) => f.endsWith(ext))
+    // _ 始まりは除外（articles/_placeholder.mdx: 記事0件時も動的 import を解決させるため）
+    .filter((f) => f.endsWith(ext) && !f.startsWith("_"))
     .map((f) => f.slice(0, -ext.length))
 
 export const getMakers = (): Maker[] =>
@@ -92,7 +94,10 @@ export const getArticles = async (): Promise<Article[]> =>
     )
   ).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
 
-export const getArticle = (slug: string) => loadArticle(slug)
+export const getArticle = (slug: string) => {
+  if (!listFiles("articles", ".mdx").includes(slug)) notFound()
+  return loadArticle(slug)
+}
 
 export const articlesFor = (articles: Article[], makerId: string) =>
   articles.filter((a) => a.makerIds.includes(makerId))

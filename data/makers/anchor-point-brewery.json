@@ -14,10 +14,37 @@
   "closedDays": "ビル休館日",
   "bar": true,
   "restaurant": true,
+  "website": "https://anchor-point.jp/",
+  "products": [
+    {
+      "name": "Anchor Point IPA",
+      "description": "看板のアメリカンスタイルIPA"
+    },
+    {
+      "name": "Wheat Ale",
+      "description": "小麦のエール"
+    },
+    {
+      "name": "Dark Ale",
+      "description": "ロースト感のあるダークエール"
+    },
+    {
+      "name": "Amber Ale",
+      "description": "カラメルモルトのアンバーエール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anchor-point-brewery-ogp.jpg",
+      "alt": "Anchor Pointの店内とテラス席",
+      "caption": "画像: Anchor Point 公式サイト"
+    }
+  ],
   "sourceUrls": [
     "https://we-love-beer.com/chiyoda-brewery-guide/",
-    "https://www.nta.go.jp/taxes/sake/menkyo/shinki/seizo/02/r01/10/03.htm"
+    "https://www.nta.go.jp/taxes/sake/menkyo/shinki/seizo/02/r01/10/03.htm",
+    "https://we-love-beer.com/anchor-point-brewery-beer/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

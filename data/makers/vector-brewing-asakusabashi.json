@@ -5,15 +5,50 @@
   "types": ["beer"],
   "ward": "taito",
   "area": "浅草橋",
-  "address": "東京都台東区浅草橋4-7（番地未確認）",
+  "address": "東京都台東区浅草橋4-7-3",
+  "latitude": 35.698132,
+  "longitude": 139.780884,
   "nearestStations": ["浅草橋駅"],
   "description": "2019年開設（旧クラフトビールカンパニー）。代表作は「ねこぱんち」。瓶ビールを直売。",
+  "openingHours": "直売 月〜土 10:00–18:00",
+  "closedDays": "日曜・祝日",
   "shop": true,
-  "memo": "番地未確認。訪問前に要確認。",
+  "bar": false,
+  "website": "https://vectorbrewing.co.jp/asakusabashi",
+  "sns": {
+    "x": "https://x.com/VectorBrewing_"
+  },
+  "products": [
+    {
+      "name": "ねこぱんち",
+      "description": "猫ラベルの看板小麦ビール。5%"
+    },
+    {
+      "name": "トムキャットHazyIPA",
+      "description": "ヘイジーIPA。5%"
+    },
+    {
+      "name": "グラマラスIPA",
+      "description": "ヘイジーIPA。7.5%"
+    },
+    {
+      "name": "UENO NEKO",
+      "description": "上野の名を冠したヘイジーIPA。7.5%"
+    },
+    {
+      "name": "春ねこぱんち",
+      "description": "春限定のケルシュ。5%"
+    },
+    {
+      "name": "秋ねこぱんち",
+      "description": "秋限定のESB。5.5%"
+    }
+  ],
   "sourceUrls": [
     "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
-    "https://craft-beer.life/brewery/craftbeercompany"
+    "https://craft-beer.life/brewery/craftbeercompany",
+    "https://we-love-beer.com/vector-brewing-asakusabashi/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

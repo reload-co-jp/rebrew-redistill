@@ -4,14 +4,56 @@
   "category": "brewery",
   "types": ["beer"],
   "ward": "taito",
-  "address": "東京都台東区（番地未確認）",
+  "area": "上野",
+  "address": "東京都台東区上野1-3-7 ナガホリ第一ビル1F・2F",
+  "latitude": 35.705414,
+  "longitude": 139.770874,
   "nearestStations": ["湯島駅"],
   "description": "2023年7月開業。1階が醸造所兼立ち飲み、2階がタップルーム。",
+  "openingHours": "月水木 15:00–21:00 / 金 15:00–22:00 / 土 13:00–21:00 / 日 12:00–20:00",
+  "closedDays": "火曜",
   "bar": true,
-  "memo": "番地未確認。訪問前に要確認。",
+  "website": "https://thisbrewing.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/thisbrewing"
+  },
+  "products": [
+    {
+      "name": "this pale ale",
+      "description": "定番のペールエール。5.5%"
+    },
+    {
+      "name": "this hazy IPA",
+      "description": "桃とライチの香りのヘイジーIPA。6%"
+    },
+    {
+      "name": "this west coast IPA",
+      "description": "ウエストコーストIPA。6.5%"
+    },
+    {
+      "name": "this pale ale w/earl grey",
+      "description": "アールグレイのペールエール。5.5%"
+    },
+    {
+      "name": "this sour ale w/raspberry",
+      "description": "ラズベリーのサワーエール。5.5%"
+    },
+    {
+      "name": "this stout w/coconut & cacao",
+      "description": "ココナッツとカカオニブのスタウト。6%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/this-brewing-ogp.jpg",
+      "alt": "THIS BREWINGの缶ビールと箱",
+      "caption": "画像: THIS BREWING 公式サイト"
+    }
+  ],
   "sourceUrls": [
-    "https://beertengoku.com/2024/09/25/this-brewing-taito-tokyo/"
+    "https://beertengoku.com/2024/09/25/this-brewing-taito-tokyo/",
+    "https://we-love-beer.com/this-brewing-yushima/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

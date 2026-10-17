@@ -13,7 +13,18 @@
   "openingHours": "16:00–21:00",
   "closedDays": "土日祝",
   "bar": true,
-  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "website": "https://kanda-square.com/shop/uokin_jyozou_stand.html",
+  "images": [
+    {
+      "src": "/images/uokin-brewing-stand-ogp.jpg",
+      "alt": "魚金醸造スタンドのグラスビール6種",
+      "caption": "画像: KANDA SQUARE 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/uokin-jozo-stand-kanda/"
+  ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -10,12 +10,55 @@
   "longitude": 139.813736,
   "nearestStations": ["押上駅"],
   "description": "2014年開業の小さなブルーパブ。1回約100Lをブルワー一人で仕込む。シードルや果実蒸留酒ラキヤも造る。店外の自販機で缶を販売（5:00–23:00）。",
-  "bar": true,
+  "openingHours": "金 18:00–24:00 / 土日祝 15:00–24:00（缶の自販機 5:00–23:00 年中無休）",
+  "closedDays": "月〜木曜",
   "shop": true,
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/miyatagonzales/"
+  },
+  "products": [
+    {
+      "name": "ペールエール",
+      "type": "beer",
+      "description": "開業時から続くアメリカンペールエール。5%"
+    },
+    {
+      "name": "ゴールデンエール",
+      "type": "beer",
+      "description": "淡色で軽い定番。5%"
+    },
+    {
+      "name": "松IPA",
+      "type": "beer",
+      "description": "千葉・匝瑳の造園業者の松の枝葉を使うIPA"
+    },
+    {
+      "name": "Earl Grey Pale Ale",
+      "type": "beer",
+      "description": "アールグレイのペールエール。5%"
+    },
+    {
+      "name": "山椒",
+      "type": "beer",
+      "description": "山椒のスパイスビール。5%"
+    },
+    {
+      "name": "ハードサイダー",
+      "type": "other-brewed",
+      "description": "信州佐久穂のシナノドルチェをエール酵母で発酵。7%"
+    },
+    {
+      "name": "ラキヤ",
+      "type": "other-distilled",
+      "description": "プルーン（38%）、市田柿とナイアガラ（40%）の果実蒸留酒"
+    }
+  ],
   "sourceUrls": [
     "https://we-love-beer.com/sumida-ku-brewery-guide/",
-    "https://www.winery.or.jp/winery-map/9964/"
+    "https://www.winery.or.jp/winery-map/9964/",
+    "https://we-love-beer.com/miyata-beer-yokokawa/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

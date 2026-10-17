@@ -5,7 +5,7 @@
   "types": ["beer"],
   "ward": "sumida",
   "area": "業平",
-  "address": "東京都墨田区業平4-11-3",
+  "address": "東京都墨田区業平4-11-3 田辺ハイツ1F",
   "latitude": 35.707977,
   "longitude": 139.814713,
   "nearestStations": ["押上駅"],
@@ -14,6 +14,32 @@
   "closedDays": "月〜水曜",
   "bar": true,
   "website": "https://batheyotsumebrewery.jp/",
+  "products": [
+    {
+      "name": "FOREST",
+      "description": "ヴィヒタの香りを移したヴァイツェン。3.7%"
+    },
+    {
+      "name": "SUNRISE",
+      "description": "アメリカンペールエール。5%"
+    },
+    {
+      "name": "SHOWER",
+      "description": "ウエストコーストIPA。7%"
+    },
+    {
+      "name": "ジンジャーチリIPA",
+      "description": "生姜とハラペーニョのIPA。6%"
+    },
+    {
+      "name": "Coffee Milk Stout",
+      "description": "銭湯のコーヒー牛乳から発想したミルクスタウト。5%"
+    },
+    {
+      "name": "ふゆゆずエール",
+      "description": "冬至のゆず湯に合わせたゆずのセゾン。5%"
+    }
+  ],
   "images": [
     {
       "src": "/images/bathe-yotsume-brewery-ogp.jpg",
@@ -23,8 +49,9 @@
   ],
   "sourceUrls": [
     "https://we-love-beer.com/sumida-ku-brewery-guide/",
-    "https://batheyotsumebrewery.jp/"
+    "https://batheyotsumebrewery.jp/",
+    "https://we-love-beer.com/bathe-yotsume-brewery/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -5,14 +5,50 @@
   "types": ["beer"],
   "ward": "sumida",
   "area": "亀沢",
-  "address": "東京都墨田区亀沢（番地未確認）",
+  "address": "東京都墨田区亀沢2-23-7 塚越ビル1F",
+  "latitude": 35.698097,
+  "longitude": 139.801743,
   "nearestStations": ["両国駅"],
   "description": "両国のビアバー「麦酒倶楽部ポパイ」が2020年8月に開いた醸造所。300Lタンク6基、酵母は仕込みごとに自家培養。ビールはポパイで飲める。",
-  "memo": "番地未確認。訪問前に要確認。",
+  "website": "https://www.70beersontap.com/",
+  "products": [
+    {
+      "name": "Great Wave Pale Ale",
+      "description": "北斎「神奈川沖浪裏」ラベルのペールエール"
+    },
+    {
+      "name": "Red Fuji IPA",
+      "description": "北斎「凱風快晴」ラベルのIPA"
+    },
+    {
+      "name": "両国エール",
+      "description": "食事に合わせるアメリカンペールエール。4.5%"
+    },
+    {
+      "name": "両国IPA",
+      "description": "アメリカンスタイルのIPA。7%"
+    },
+    {
+      "name": "Cape Cod's Fog",
+      "description": "ニューイングランドIPA。7.5%"
+    },
+    {
+      "name": "Yokozuna",
+      "description": "アメリカンスタウト。6.5%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ryogoku-beer-lab-ogp.jpg",
+      "alt": "麦酒倶楽部ポパイのビールタップが並ぶ壁",
+      "caption": "画像: 麦酒倶楽部ポパイ 公式サイト"
+    }
+  ],
+  "memo": "醸造所での提供なし。直営の麦酒倶楽部ポパイ（墨田区両国2-18-7）で飲める。ポパイは火〜木 15:00–23:00 / 土 14:00–23:00 / 日祝 13:00–22:00、月曜休み。",
   "sourceUrls": [
     "https://we-love-beer.com/sumida-ku-brewery-guide/",
     "https://we-love-beer.com/ryogoku-beer-lab/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

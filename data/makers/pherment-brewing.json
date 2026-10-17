@@ -5,11 +5,46 @@
   "types": ["beer"],
   "ward": "taito",
   "area": "蔵前",
-  "address": "東京都台東区蔵前（番地未確認）",
+  "address": "東京都台東区蔵前3-13-14 1F",
+  "latitude": 35.704403,
+  "longitude": 139.792114,
   "nearestStations": ["蔵前駅"],
   "description": "厩橋近くのブルワリー。「Neon」「Putty」「YOOFEE」などを造る。",
-  "memo": "番地未確認。訪問前に要確認。",
-  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "openingHours": "月〜土 16:00–23:00 / 日祝 15:00–22:00",
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/pherment_beer/"
+  },
+  "products": [
+    {
+      "name": "YOOFEE",
+      "description": "5種のホップのウエストコーストIPA。7.1%"
+    },
+    {
+      "name": "NEON",
+      "description": "ネクタロン単一のヘイジーIPA。6.8%"
+    },
+    {
+      "name": "PUTTY",
+      "description": "3種のホップのヘイジーペールエール。5.3%"
+    },
+    {
+      "name": "MAZZA",
+      "description": "軽めのヘイジーIPA。6.4%"
+    },
+    {
+      "name": "MOTEL",
+      "description": "アメリカンIPA。7.3%"
+    },
+    {
+      "name": "COPAIN",
+      "description": "セゾン。5.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/pherment-brewing-kuramae/"
+  ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -10,11 +10,37 @@
   "longitude": 139.800537,
   "nearestStations": ["浅草駅"],
   "description": "アサヒビール直営。1995年に吾妻橋で東京初のクラフトビールを造った醸造所。定番はケルシュスタイル、香るヴァイツェン、吾妻橋ペールエール、ビタースタウト。",
+  "products": [
+    {
+      "name": "ケルシュスタイル",
+      "description": "東京第1号の地ビールの設計をもとにしたフラッグシップ。5%"
+    },
+    {
+      "name": "香るヴァイツェン",
+      "description": "小麦麦芽のホワイトビール。5%"
+    },
+    {
+      "name": "ビタースタウト",
+      "description": "ビターホップ100%の黒ビール。6.5%"
+    },
+    {
+      "name": "吾妻橋ペールエール",
+      "description": "カスケードホップの琥珀色のエール。5.5%"
+    },
+    {
+      "name": "ゴールデンエール",
+      "description": "缶でも売られた淡色の定番。5%"
+    },
+    {
+      "name": "琥珀の時間",
+      "description": "20年以上続く銘柄を仕上げ直したドゥンケル。5%"
+    }
+  ],
   "memo": "2026年3月に併設店が「BEER DINER SUPER DRY TOKYO」へ改装され、店でのクラフトビール提供は終了。醸造継続か要確認。",
   "sourceUrls": [
     "https://we-love-beer.com/sumida-ku-brewery-guide/",
     "https://we-love-beer.com/tokyo-sumidagawa-brewing/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

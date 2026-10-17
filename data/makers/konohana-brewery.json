@@ -10,12 +10,29 @@
   "longitude": 139.794861,
   "nearestStations": ["浅草駅"],
   "description": "2020年誕生のどぶろく醸造所。米と米麹のどぶろくやフルーツを使った酒を醸す。併設バル「ALL(W)RIGHT -sake place-」で飲める。",
+  "openingHours": "17:00–22:30（土日祝 15:00–）",
+  "closedDays": "月曜",
   "visitable": true,
   "bar": true,
+  "sns": {
+    "x": "https://x.com/allwright_tokyo"
+  },
+  "products": [
+    {
+      "name": "ハナグモリ",
+      "description": "定番のどぶろく。名は木花之開耶姫の桜にちなむ"
+    },
+    {
+      "name": "ハナグモリ THE 酸",
+      "description": "ハナグモリの派生銘柄"
+    }
+  ],
+  "memo": "併設バルは浅草4丁目（伊藤マンション1F）へ移転と公式Xで告知。醸造所の所在地は要確認。",
   "sourceUrls": [
     "https://t-navi.city.taito.lg.jp/features/24",
-    "https://san-tatsu.jp/spots/158231/"
+    "https://san-tatsu.jp/spots/158231/",
+    "https://x.com/allwright_tokyo"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -10,9 +10,32 @@
   "longitude": 139.774231,
   "nearestStations": ["御徒町駅"],
   "description": "御徒町のJR高架下にあるブリューパブ。2018年12月開業。炭火の塊肉と自家醸造ビールを合わせる。",
+  "openingHours": "月〜木 11:30–14:30, 17:00–23:00 / 金 11:30–14:30, 17:00–23:30 / 土 11:30–23:30 / 日祝 11:30–23:00",
+  "closedDays": "無休",
   "bar": true,
   "restaurant": true,
-  "sourceUrls": ["https://we-love-beer.com/tokyo-23-wards-brewery-guide/"],
+  "products": [
+    {
+      "name": "Ameyoko",
+      "description": "ヘレス。4%"
+    },
+    {
+      "name": "Okachimachi Ale",
+      "description": "小麦のエール。4.2%"
+    },
+    {
+      "name": "Kachikura IPA",
+      "description": "イングリッシュIPA。4.5%（アメリカンスタイル版は7%）"
+    },
+    {
+      "name": "AKIOKA Amber Ale",
+      "description": "アンバーエール。6%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/tokyo-butchers-okachi-beer-lab/"
+  ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

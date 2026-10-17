@@ -5,14 +5,45 @@
   "types": ["beer"],
   "ward": "taito",
   "area": "上野",
-  "address": "東京都台東区上野2-10-7",
+  "address": "東京都台東区上野2-10-7 かきくけこビル1F・2F",
   "latitude": 35.709152,
   "longitude": 139.771744,
   "nearestStations": ["上野広小路駅"],
   "description": "2021年開業。店内の醸造工房で造るクラフトビールと羊料理の店。",
+  "openingHours": "金 17:00–23:00 / その他 12:00–23:00",
+  "closedDays": "無休",
   "bar": true,
   "restaurant": true,
-  "sourceUrls": ["https://newscast.jp/news/6780634"],
+  "products": [
+    {
+      "name": "ひつじあいす",
+      "description": "看板のアメリカンペールエール。5%"
+    },
+    {
+      "name": "しのばずホップのPJ",
+      "description": "上野で穫れた生ホップのヘイジーIPA。6%"
+    },
+    {
+      "name": "不忍エールエール",
+      "description": "ヘイジーIPA。6%"
+    },
+    {
+      "name": "厚真町トリプレットラガー",
+      "description": "ウィーンスタイルのラガー。5.6%"
+    },
+    {
+      "name": "ゲーテの夜長",
+      "description": "シュバルツビア。4.5%"
+    },
+    {
+      "name": "まどろみのアリス",
+      "description": "イングリッシュペールエール。5.6%"
+    }
+  ],
+  "sourceUrls": [
+    "https://newscast.jp/news/6780634",
+    "https://we-love-beer.com/shinobazu-brewery-ueno/"
+  ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

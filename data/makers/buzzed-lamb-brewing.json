@@ -5,15 +5,48 @@
   "types": ["beer"],
   "ward": "taito",
   "area": "谷中",
-  "address": "東京都台東区谷中（番地未確認）",
+  "address": "東京都台東区谷中4-2-39",
+  "latitude": 35.723595,
+  "longitude": 139.768066,
   "nearestStations": ["千駄木駅", "日暮里駅"],
   "description": "2024年8月開業。酒屋「伊勢五本店」の元店舗だった築100年の古民家を使うブリューパブ。",
+  "openingHours": "水木日 12:00–20:00 / 金土 12:00–22:00",
+  "closedDays": "月曜・火曜",
   "bar": true,
-  "memo": "番地未確認。訪問前に要確認。",
+  "sns": {
+    "instagram": "https://www.instagram.com/buzzed_lamb_brewing/"
+  },
+  "products": [
+    {
+      "name": "Ariesの秘藥",
+      "description": "ヘイジーIPA。7%"
+    },
+    {
+      "name": "羊たちの誘惑",
+      "description": "ヘイジーIPA。7%"
+    },
+    {
+      "name": "Snake Street IPA",
+      "description": "谷中のへび道にちなむアメリカンIPA。6.5%"
+    },
+    {
+      "name": "寺べっぴん",
+      "description": "セゾン。6%"
+    },
+    {
+      "name": "初心者歓迎",
+      "description": "アメリカンペールエール。5%"
+    },
+    {
+      "name": "めぇぇぇるしぃチェリーパイ",
+      "description": "チェリーのフルーツサワー。7%"
+    }
+  ],
   "sourceUrls": [
     "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
-    "https://beertengoku.com/2025/09/10/buzzed-lamb-brewing/"
+    "https://beertengoku.com/2025/09/10/buzzed-lamb-brewing/",
+    "https://we-love-beer.com/buzzed-lamb-brewing-yanaka/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -10,14 +10,24 @@
   "longitude": 139.790588,
   "nearestStations": ["蔵前駅"],
   "description": "エシカル・スピリッツが運営する再生型蒸留所。酒粕など日本酒の副産物を原料にクラフトジンを造る。1階がオフィシャルストア、2階がバー＆ダイニング。",
+  "openingHours": "ショップ 13:00–19:00 / バー 18:00–23:00",
+  "closedDays": "月曜（2Fバーは日曜も休み）",
   "visitable": true,
   "shop": true,
   "bar": true,
   "website": "https://ethicalspirits.jp/",
+  "products": [
+    {
+      "name": "LAST",
+      "description": "酒粕焼酎をベースにした主力のクラフトジン"
+    }
+  ],
   "sourceUrls": [
     "https://ethicalspirits.jp/distillery/trd/",
-    "https://t-navi.city.taito.lg.jp/features/98"
+    "https://t-navi.city.taito.lg.jp/features/98",
+    "https://www.timeout.jp/tokyo/ja/バー/tokyo-riverside-distillery",
+    "https://news.nissyoku.co.jp/?p=751998"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -5,13 +5,62 @@
   "types": ["wine"],
   "ward": "taito",
   "area": "御徒町",
-  "address": "東京都台東区台東3丁目（番地未確認）",
+  "address": "東京都台東区台東3-40-2",
+  "latitude": 35.705074,
+  "longitude": 139.777084,
   "nearestStations": ["御徒町駅"],
   "description": "2017年醸造開始の都市型ワイナリー。自社農園・契約農家のぶどうを都内で仕込む。レストラン併設。",
+  "openingHours": "平日 12:00–15:00, 17:00–19:30 / 土日祝 12:00–17:00",
+  "closedDays": "水曜",
   "visitable": true,
   "restaurant": true,
   "website": "https://www.bookroad.tokyo/",
-  "memo": "番地未確認。訪問前に要確認。",
+  "products": [
+    {
+      "name": "ソーヴィニヨンブラン",
+      "description": "白"
+    },
+    {
+      "name": "シャルドネ",
+      "description": "白"
+    },
+    {
+      "name": "ナイアガラ",
+      "description": "白"
+    },
+    {
+      "name": "醸し甲州",
+      "description": "甲州の醸し"
+    },
+    {
+      "name": "オレンジデラウエア",
+      "description": "オレンジ"
+    },
+    {
+      "name": "スチューベンロゼ",
+      "description": "ロゼ"
+    },
+    {
+      "name": "メルローロゼ",
+      "description": "ロゼ"
+    },
+    {
+      "name": "ベリーA",
+      "description": "赤"
+    },
+    {
+      "name": "カベルネソーヴィニヨン",
+      "description": "赤"
+    },
+    {
+      "name": "富士の夢",
+      "description": "赤"
+    },
+    {
+      "name": "スチューベンスパークリング",
+      "description": "スパークリング"
+    }
+  ],
   "images": [
     {
       "src": "/images/bookroad-winery-ogp.jpg",
@@ -21,8 +70,9 @@
   ],
   "sourceUrls": [
     "https://www.bookroad.tokyo/about",
-    "https://getnavi.jp/cuisine/407122/view-all/"
+    "https://getnavi.jp/cuisine/407122/view-all/",
+    "https://www.bookroad.tokyo/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

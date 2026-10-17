@@ -10,16 +10,26 @@
   "longitude": 139.767242,
   "nearestStations": ["東京駅"],
   "description": "はせがわ酒店に併設されたエキナカ酒蔵。2020年開業。256Lの小型タンクでどぶろく・日本酒を仕込み、工程をガラス越しに見られる。",
+  "openingHours": "7:00–22:00（日・連休最終日の祝日 〜21:00）",
   "visitable": true,
   "shop": true,
+  "website": "https://www.hasegawasaketen.com/shop.html#gransta",
   "sns": {
     "x": "https://x.com/tokyostabrewery",
     "instagram": "https://www.instagram.com/tokyostation_sakebrewery/"
   },
-  "memo": "改札内。グランスタ改装予定あり、位置要確認。",
+  "products": [
+    {
+      "name": "東京駅酒造場 どぶろく",
+      "type": "other-brewed",
+      "description": "清酒と同じ三段仕込み。300ml瓶"
+    }
+  ],
+  "memo": "改札内。グランスタ改装予定あり、位置要確認。営業時間は古い掲載情報。",
   "sourceUrls": [
-    "https://www.gransta.jp/mall/gransta_tokyo/hasegawasaketen_granstatokyo/"
+    "https://www.gransta.jp/mall/gransta_tokyo/hasegawasaketen_granstatokyo/",
+    "https://www.saketime.jp/brands/7553/"
   ],
   "createdAt": "2026-10-15",
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-17"
 }

@@ -1,0 +1,38 @@
+{
+  "id": "nakano-beer-kobo",
+  "name": "中野ビール工房",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "nakano",
+  "area": "中野",
+  "address": "東京都中野区中野5-53-4",
+  "latitude": 35.709198,
+  "longitude": 139.666458,
+  "nearestStations": ["中野駅"],
+  "description": "昭和新道の路地の奥にある麦酒企画のブルーパブ。店長が醸造家を兼ね、160Lタンク2本で造る。造り手が替わると銘柄も入れ替わる。",
+  "openingHours": "火〜金 17:00–23:30 / 土 13:00–23:30 / 日祝 13:00–22:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "website": "https://www.beerkobo.com/shop/detail.html?id=213",
+  "products": [
+    {
+      "name": "Harmony IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "Black Hole Birthday",
+      "description": "コーヒースタウト"
+    },
+    {
+      "name": "Sake Weizen",
+      "description": "日本酒酵母のヴァイツェン"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/nakano-ku-brewery-guide/",
+    "https://we-love-beer.com/nakano-beer-kobo/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

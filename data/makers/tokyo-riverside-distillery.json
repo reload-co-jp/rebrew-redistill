@@ -22,6 +22,13 @@
       "description": "酒粕焼酎をベースにした主力のクラフトジン"
     }
   ],
+  "images": [
+    {
+      "src": "/images/tokyo-riverside-distillery-ogp.jpg",
+      "alt": "東京リバーサイド蒸溜所の外観と店頭カウンター",
+      "caption": "画像: エシカル・スピリッツ 公式サイト"
+    }
+  ],
   "sourceUrls": [
     "https://ethicalspirits.jp/distillery/trd/",
     "https://t-navi.city.taito.lg.jp/features/98",

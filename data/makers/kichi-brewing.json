@@ -1,0 +1,41 @@
+{
+  "id": "kichi-brewing",
+  "name": "きちブルーイング",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "katsushika",
+  "area": "堀切",
+  "address": "東京都葛飾区堀切2-55-10 ナダクラマンション1F",
+  "latitude": 35.746021,
+  "longitude": 139.828415,
+  "nearestStations": ["堀切菖蒲園駅"],
+  "description": "葛飾区初のクラフトビール。店主がひとりで仕込んで注ぐ。言葉遊びの銘柄名で新しい一杯を出し続ける。",
+  "openingHours": "平日 17:00–22:00 / 土日祝 13:00–22:00",
+  "closedDays": "火・水",
+  "bar": true,
+  "sns": {
+    "x": "https://x.com/kichibrewing",
+    "instagram": "https://www.instagram.com/kichibrewing/"
+  },
+  "products": [
+    {
+      "name": "き",
+      "description": "イングリッシュペールエール"
+    },
+    {
+      "name": "ち",
+      "description": "にごりのあるペールエール"
+    },
+    {
+      "name": "いのちだいじに",
+      "description": "塩とライムとグアバのゴーゼ"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/katsushika-ku-brewery-guide/",
+    "https://we-love-beer.com/kichi-brewing-horikiri/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "devilcraft-gotanda",
+  "name": "DevilCraft 五反田",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinagawa",
+  "area": "五反田",
+  "address": "東京都品川区西五反田2-7-8 誠實ビル9F",
+  "latitude": 35.626251,
+  "longitude": 139.72258,
+  "nearestStations": ["五反田駅"],
+  "description": "シカゴピザとクラフトビールの店から始まり、2015年に品川区で自社醸造所を設立。World Beer Cupで2度金賞。神田・浜松町・自由が丘にも店がある。",
+  "openingHours": "月〜金 17:00–23:00 / 土日 15:00–22:00",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.devilcraft.jp/gotanda/",
+  "sns": {
+    "instagram": "https://www.instagram.com/devilcraft_gotanda/",
+    "facebook": "https://www.facebook.com/devilcraft.gotanda/"
+  },
+  "products": [
+    {
+      "name": "ブラック イグニアス",
+      "description": "オートミールスタウト。World Beer Cup 2024 金賞"
+    },
+    {
+      "name": "ラディアンス",
+      "description": "ゴールデンエール"
+    },
+    {
+      "name": "ホップ スマグラー",
+      "description": "ニュージーランドペールエール"
+    },
+    {
+      "name": "ウェスタリー",
+      "description": "コールドIPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/devilcraft-gotanda-ogp.jpg",
+      "alt": "DevilCraft 五反田の店内",
+      "caption": "画像: DevilCraft 公式サイト"
+    }
+  ],
+  "memo": "醸造所の所在地は非公開。住所は五反田の店舗。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinagawa-ku-brewery-guide/",
+    "https://we-love-beer.com/devilcraft-brewery-tokyo/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

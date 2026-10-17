@@ -44,6 +44,13 @@
       "description": "秋限定のESB。5.5%"
     }
   ],
+  "images": [
+    {
+      "src": "/images/vector-brewing-asakusabashi-ogp.jpg",
+      "alt": "VECTOR BREWINGの醸造所に立つスタッフ",
+      "caption": "画像: VECTOR BREWING 公式サイト"
+    }
+  ],
   "sourceUrls": [
     "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
     "https://craft-beer.life/brewery/craftbeercompany",

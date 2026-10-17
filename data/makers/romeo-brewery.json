@@ -10,10 +10,11 @@
   "longitude": 139.811905,
   "nearestStations": ["押上駅"],
   "description": "2024年1月開業のブルーパブ。10タップすべて自家醸造。梅のゴーゼやハーブを使うセゾンなど。料理はハーブを使ったイタリアン。",
-  "openingHours": "平日 17:30–23:00 / 土 12:00–23:00",
-  "closedDays": "日曜（月曜休みの月あり）",
+  "openingHours": "平日 17:30–23:00 / 休日 12:00–23:00",
+  "closedDays": "月・火（不定休）",
   "bar": true,
   "restaurant": true,
+  "website": "https://romeo-brewery.com/",
   "sns": {
     "instagram": "https://www.instagram.com/romeo_brewery/"
   },
@@ -46,7 +47,8 @@
   "sourceUrls": [
     "https://we-love-beer.com/sumida-ku-brewery-guide/",
     "https://sumidaku2shin.com/archives/24232706.html",
-    "https://we-love-beer.com/romeo-brewery-oshiage/"
+    "https://we-love-beer.com/romeo-brewery-oshiage/",
+    "https://romeo-brewery.com/"
   ],
   "createdAt": "2026-10-15",
   "updatedAt": "2026-10-17"

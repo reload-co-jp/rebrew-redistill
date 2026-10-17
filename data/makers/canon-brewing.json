@@ -1,0 +1,54 @@
+{
+  "id": "canon-brewing",
+  "name": "CANON BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "代沢",
+  "address": "東京都世田谷区代沢4-27-10 1F",
+  "latitude": 35.653751,
+  "longitude": 139.666565,
+  "nearestStations": ["下北沢駅", "三軒茶屋駅"],
+  "description": "下北沢のフレンチビストロが代沢で醸すブルワリー。苦みと酸味を抑え料理に寄り添わせる。山梨県北杜市でホップを自家栽培。",
+  "openingHours": "水〜金 17:00–23:00 / 土 14:00–23:00 / 日 14:00–21:00",
+  "closedDays": "月・火",
+  "bar": true,
+  "restaurant": true,
+  "onlineShop": true,
+  "website": "https://canon-brewing.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/canon.brewing/"
+  },
+  "products": [
+    {
+      "name": "ピルスナー",
+      "description": "ピルスナー。6%"
+    },
+    {
+      "name": "ホワイト",
+      "description": "小麦ビール。4%"
+    },
+    {
+      "name": "アンバーエール",
+      "description": "イギリス風エール。6%"
+    },
+    {
+      "name": "アールグレイ",
+      "description": "茶葉を漬け込んだピルスナー。6%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/canon-brewing-ogp.jpg",
+      "alt": "CANON BREWINGのロゴが入った店の窓",
+      "caption": "画像: CANON BREWING 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/canon-brewing-daizawa/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

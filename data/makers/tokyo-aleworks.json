@@ -1,0 +1,42 @@
+{
+  "id": "tokyo-aleworks",
+  "name": "TOKYO ALEWORKS",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "itabashi",
+  "area": "板橋",
+  "address": "東京都板橋区板橋1-8-4 板橋Cask Village 1階",
+  "latitude": 35.746521,
+  "longitude": 139.716385,
+  "nearestStations": ["下板橋駅", "板橋駅"],
+  "description": "洋酒輸入会社がホテル1階で造る醸造所。東京の街の名前を付けた「TOKYO SERIES」を造る。有楽町にもタップルーム。",
+  "openingHours": "火〜金 15:00–23:00 / 土 12:00–23:00 / 日祝 12:00–22:00",
+  "closedDays": "月曜（祝日の場合は火曜）",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://tokyoaleworks.com/taproom_itabashi/",
+  "sns": {
+    "instagram": "https://www.instagram.com/tokyoaleworks_taproom_itabashi/"
+  },
+  "products": [
+    {
+      "name": "板橋ヒイルラガー",
+      "description": "ピルスナー"
+    },
+    {
+      "name": "大山ヘイズ",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "池袋ナイト・オウル",
+      "description": "オートミールスタウト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/itabashi-ku-brewery-guide/",
+    "https://we-love-beer.com/tokyo-aleworks-itabashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

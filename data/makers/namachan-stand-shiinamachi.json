@@ -1,0 +1,30 @@
+{
+  "id": "namachan-stand-shiinamachi",
+  "name": "NAMACHAんスタンド 椎名町店",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "toshima",
+  "area": "椎名町",
+  "address": "東京都豊島区長崎1-18-11 1階",
+  "latitude": 35.728939,
+  "longitude": 139.693451,
+  "nearestStations": ["椎名町駅"],
+  "description": "NAMACHAん Brewingの第2醸造所を併設。フルーツビールやサワーを主に仕込む。角打ちのように立ち飲みでき、缶と燻製品を持ち帰れる。",
+  "openingHours": "12:00–21:00",
+  "closedDays": "月曜",
+  "shop": true,
+  "bar": true,
+  "website": "https://smokebeerfactory.com/",
+  "sns": {
+    "x": "https://x.com/namasta_1/",
+    "instagram": "https://www.instagram.com/namachanstand_shiinamachi/",
+    "facebook": "https://www.facebook.com/namachanstand/"
+  },
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/toshima-ku-brewery-guide/",
+    "https://we-love-beer.com/namachan-brewing-otsuka/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

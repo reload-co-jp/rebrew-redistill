@@ -1,0 +1,64 @@
+{
+  "id": "after-school-brewery",
+  "name": "AFTER SCHOOL BREWERY",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "池尻",
+  "address": "東京都世田谷区池尻2-4-5 HOME/WORK VILLAGE 110",
+  "latitude": 35.645664,
+  "longitude": 139.680908,
+  "nearestStations": ["池尻大橋駅", "三軒茶屋駅"],
+  "description": "廃校になった中学校の元職員室に6本のタンクを並べる。銘柄名は学校の言葉でそろえる。全国の廃校ブルワリーのビールも並ぶ。",
+  "openingHours": "平日 14:00–22:00 / 土日祝 12:00–22:00",
+  "closedDays": "火曜",
+  "bar": true,
+  "website": "https://mishuku.co.jp/",
+  "sns": {
+    "x": "https://x.com/AfterSchool_B",
+    "facebook": "https://www.facebook.com/afterschoolbrewery/",
+    "instagram": "https://www.instagram.com/afterschoolbrewery/"
+  },
+  "products": [
+    {
+      "name": "番長",
+      "description": "インペリアルIPA。8.5%"
+    },
+    {
+      "name": "ガリ勉",
+      "description": "ケルシュ。5.5%"
+    },
+    {
+      "name": "初恋",
+      "description": "ホワイトエール。4.2%"
+    },
+    {
+      "name": "遠足",
+      "description": "ヘーフェヴァイツェン。5%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/after-school-brewery-ogp.jpg",
+      "alt": "AFTER SCHOOL BREWERYの外観とテラス席",
+      "caption": "画像: AFTER SCHOOL BREWERY 公式サイト"
+    },
+    {
+      "src": "/images/after-school-brewery-2.jpg",
+      "alt": "AFTER SCHOOL BREWERYの6種類のビール",
+      "caption": "画像: AFTER SCHOOL BREWERY 公式サイト"
+    },
+    {
+      "src": "/images/after-school-brewery-3.jpg",
+      "alt": "AFTER SCHOOL BREWERYの醸造設備",
+      "caption": "画像: AFTER SCHOOL BREWERY 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/after-school-brewery-ikejiri/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

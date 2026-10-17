@@ -1,0 +1,42 @@
+{
+  "id": "cycad-brewing",
+  "name": "CYCAD BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "toshima",
+  "area": "西池袋",
+  "address": "東京都豊島区西池袋4-19-14 NishiikeMart内",
+  "latitude": 35.730366,
+  "longitude": 139.698761,
+  "nearestStations": ["要町駅"],
+  "description": "定番を置かず10タップすべてを自家醸造でうめる。ヘッドブルワーは1998年に米国ホームブルワーの頂点に立った。アートとバーベキューが同居する建物。",
+  "openingHours": "15:00–23:00",
+  "closedDays": "火曜",
+  "bar": true,
+  "website": "https://cycadbrewing.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/cycad_brewing/"
+  },
+  "products": [
+    {
+      "name": "Horridus",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "Revoluta",
+      "description": "ピルスナー"
+    },
+    {
+      "name": "Woodii",
+      "description": "インペリアルスタウト。9.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/toshima-ku-brewery-guide/",
+    "https://we-love-beer.com/cycad-brewing-nishiikebukuro/",
+    "https://cycadbrewing.com/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

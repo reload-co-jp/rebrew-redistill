@@ -1,0 +1,51 @@
+{
+  "id": "uokin-jozo",
+  "name": "魚金醸造",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "渋谷",
+  "address": "東京都渋谷区道玄坂1-12-3 渋谷マークシティ EAST MALL 2F",
+  "latitude": 35.658092,
+  "longitude": 139.698685,
+  "nearestStations": ["渋谷駅"],
+  "description": "魚金が渋谷マークシティで営む醸造所。「苦旨」を掲げ、豊洲直送の魚介や茶碗蒸しと合わせる。自家醸造の飲み放題あり。",
+  "openingHours": "平日 11:30–15:00, 15:00–23:00 / 土日祝 11:30–23:00",
+  "closedDays": "年末年始",
+  "bar": true,
+  "restaurant": true,
+  "onlineShop": true,
+  "website": "https://uokingroup.jp/collections/beer",
+  "products": [
+    {
+      "name": "Ran&Ran",
+      "description": "ヘイジーペールエール"
+    },
+    {
+      "name": "麦雨",
+      "description": "IPA"
+    },
+    {
+      "name": "覚醒",
+      "description": "ダブルIPA。7.5%"
+    },
+    {
+      "name": "復活",
+      "description": "ヴァイツェン"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/uokin-jozo-ogp.jpg",
+      "alt": "魚金醸造の缶ビール4本",
+      "caption": "画像: 魚金 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/uokin-jozo-shibuya/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

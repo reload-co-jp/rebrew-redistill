@@ -1,0 +1,47 @@
+{
+  "id": "dam-pub",
+  "name": "dam pub",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "虎ノ門",
+  "address": "東京都港区虎ノ門2-6-3 虎ノ門ヒルズ ステーションタワー 地下2階",
+  "latitude": 35.667068,
+  "longitude": 139.74733,
+  "nearestStations": ["虎ノ門ヒルズ駅", "虎ノ門駅"],
+  "description": "虎ノ門ヒルズ駅直結。2023年10月に「dam brewery restaurant」として開業し、2025年3月にdam pubへ。店名は江戸時代に虎ノ門へ造られた都市ダムから。",
+  "openingHours": "月〜土 11:00–23:00 / 日 11:00–22:00",
+  "closedDays": "施設に準じる",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://transitoperationservice.com/our_brands/dam-pub/",
+  "products": [
+    {
+      "name": "daily paper",
+      "description": "セゾン"
+    },
+    {
+      "name": "day light",
+      "description": "IPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/dam-pub-ogp.jpg",
+      "alt": "dam pubのタップから注がれるビール",
+      "caption": "画像: TRANSIT OPERATION SERVICE 公式サイト"
+    },
+    {
+      "src": "/images/dam-pub-2.jpg",
+      "alt": "dam pubの店内とカウンター",
+      "caption": "画像: TRANSIT OPERATION SERVICE 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/dam-pub-toranomon/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

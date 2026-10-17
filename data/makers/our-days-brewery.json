@@ -1,0 +1,35 @@
+{
+  "id": "our-days-brewery",
+  "name": "OUR DAYs Brewery & Clubhouse",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "笹塚",
+  "address": "東京都渋谷区笹塚3-40-1",
+  "latitude": 35.678902,
+  "longitude": 139.668472,
+  "nearestStations": ["笹塚駅"],
+  "description": "映像制作会社が笹塚の住宅街で始めた小さな醸造所。200Lタンク4機で仕込みごとに配合を変える。樽1本からオリジナルビールを請け負う。",
+  "openingHours": "火〜木 18:00–23:00 / 金 18:00–24:00 / 土 15:00–24:00 / 日 15:00–23:00",
+  "closedDays": "月曜・奇数週の火曜",
+  "bar": true,
+  "website": "https://ourdaysbeer.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/ourdays_brewery/",
+    "facebook": "https://www.facebook.com/ourdaysbrewery/"
+  },
+  "images": [
+    {
+      "src": "/images/our-days-brewery-ogp.jpg",
+      "alt": "OUR DAYs Brewery & Clubhouseの店先",
+      "caption": "画像: OUR DAYs 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/our-days-brewery-sasazuka/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "novel-craft-brewing",
+  "name": "Novel Craft Brewing",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "suginami",
+  "area": "高井戸",
+  "address": "東京都杉並区高井戸東2-25-11 エザンス高井戸1F",
+  "latitude": 35.682037,
+  "longitude": 139.615326,
+  "nearestStations": ["高井戸駅"],
+  "description": "タップルーム「reverb」で醸すセゾン中心のブルワリー。銘柄名は音楽から。カウンター奥にガラス越しの醸造設備。",
+  "openingHours": "月・水〜金 17:00– / 土日 15:00–",
+  "closedDays": "火曜",
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/reverb_taproom/"
+  },
+  "products": [
+    {
+      "name": "Looper",
+      "description": "フラッグシップのセゾン"
+    },
+    {
+      "name": "Over Dub",
+      "description": "黒いセゾン"
+    },
+    {
+      "name": "Down Tempo",
+      "description": "ほうじ茶のセゾン"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/suginami-ku-brewery-guide/",
+    "https://we-love-beer.com/novel-craft-brewing-takaido/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

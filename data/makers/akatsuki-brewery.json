@@ -1,0 +1,52 @@
+{
+  "id": "akatsuki-brewery",
+  "name": "暁ブルワリー Tokyo LAB.",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "経堂",
+  "address": "東京都世田谷区経堂2-13-14 ハイツM 1F",
+  "latitude": 35.65221,
+  "longitude": 139.634583,
+  "nearestStations": ["経堂駅"],
+  "description": "ビールで日本初の有機JAS認証を取ったブルワリー。名前は岩手の海から見た夜明けに由来。芝大門・富ヶ谷に直営店。",
+  "openingHours": "土日 15:00–20:00（週により変動）",
+  "closedDays": "月〜金",
+  "bar": true,
+  "website": "https://akatsuki-brewery.com/",
+  "sns": {
+    "facebook": "https://www.facebook.com/akatsukibreweryjapan/"
+  },
+  "products": [
+    {
+      "name": "暁エール",
+      "description": "エール。4%"
+    },
+    {
+      "name": "暁ホワイト",
+      "description": "白ビール"
+    },
+    {
+      "name": "暁レッド",
+      "description": "ワカメを使った赤いビール"
+    },
+    {
+      "name": "ドラゴンアイ[スカイ]",
+      "description": "オーガニックピルスナー。4.5%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/akatsuki-brewery-ogp.jpg",
+      "alt": "暁ブルワリーのDRAGON EYE FLOWERの缶とグラス",
+      "caption": "画像: 暁ブルワリー 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/akatsuki-brewery-guide/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ottotto-brewery-hamamatsucho",
+  "name": "Ottotto BREWERY 浜松町店",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "浜松町",
+  "address": "東京都港区浜松町2-1-5 クレトイシビルB1",
+  "latitude": 35.656143,
+  "longitude": 139.754929,
+  "nearestStations": ["大門駅", "浜松町駅"],
+  "description": "浜松町のビル地下にあるブルーパブ。常時6種類の自家醸造。赤山椒を使うサンショウエールが名物。",
+  "openingHours": "月〜木 11:30–14:30, 17:00–23:00 / 金・祝前日 11:30–14:30, 17:00–23:30 / 土 16:30–22:30",
+  "closedDays": "日曜・祝日",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://ottotto-brewery.jp/shop/hamamatsucho/",
+  "products": [
+    {
+      "name": "ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "インディアペールエール",
+      "description": "IPA"
+    },
+    {
+      "name": "サンショウエール",
+      "description": "赤山椒を使ったエール"
+    },
+    {
+      "name": "スタウト",
+      "description": "スタウト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/ottotto-brewery-hamamatsucho/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

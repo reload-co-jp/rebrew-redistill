@@ -1,0 +1,53 @@
+{
+  "id": "fetish-club-tokyo-brew-lab",
+  "name": "FETISH CLUB TOKYO BREW LAB+BAR",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "芝大門",
+  "address": "東京都港区芝大門2-13-5",
+  "latitude": 35.653446,
+  "longitude": 139.753387,
+  "nearestStations": ["浜松町駅", "芝公園駅", "大門駅"],
+  "description": "1階が醸造設備、2階がバー。約20タップのほぼすべてが自家醸造で、HAZY IPAとWEST COAST IPAが看板。元麻布に系列店。",
+  "openingHours": "16:00–22:30",
+  "closedDays": "日曜",
+  "bar": true,
+  "website": "https://fetishclubbeer.com/",
+  "sns": {
+    "x": "https://x.com/FetishClubBeer/",
+    "instagram": "https://www.instagram.com/fetishclubbeer/"
+  },
+  "products": [
+    {
+      "name": "ULTRA",
+      "description": "金柑のヘイジーIPA"
+    },
+    {
+      "name": "MINERALS",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "SHIBAHAMA",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "FLUORITE",
+      "description": "ベリーのサワーIPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/fetish-club-tokyo-brew-lab-ogp.jpg",
+      "alt": "FETISH CLUBの醸造タンク",
+      "caption": "画像: FETISH CLUB 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/fetish-club-tokyo-brewlab-daimon/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

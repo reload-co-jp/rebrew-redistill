@@ -1,0 +1,42 @@
+{
+  "id": "ikari-jyouzou",
+  "name": "イカリ醸造",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinagawa",
+  "area": "荏原中延",
+  "address": "東京都品川区中延2-8-14",
+  "latitude": 35.610634,
+  "longitude": 139.712357,
+  "nearestStations": ["荏原中延駅"],
+  "description": "イギリス出身の醸造家がブリティッシュエールを造る。パブのための醸造所から、樽から量り売りする街の店に変わった。",
+  "openingHours": "18:00–20:00（土日は15:00〜16:00ごろから開くことあり）",
+  "closedDays": "火曜・悪天候の日",
+  "shop": true,
+  "website": "http://www.ikari-jyouzou.com/",
+  "products": [
+    {
+      "name": "カスケードIPA",
+      "description": "IPA"
+    },
+    {
+      "name": "アイリッシュレッド",
+      "description": "アイリッシュレッドエール"
+    },
+    {
+      "name": "スコティッシュブラウンエール",
+      "description": "ブラウンエール"
+    },
+    {
+      "name": "イカリノアール",
+      "description": "ポーター"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinagawa-ku-brewery-guide/",
+    "https://we-love-beer.com/ikari-jyouzou-ebaranakanobu/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "adachi-brewery",
+  "name": "あだちブルワリー",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "adachi",
+  "area": "西新井本町",
+  "address": "東京都足立区西新井本町3-10-24",
+  "latitude": 35.776222,
+  "longitude": 139.77565,
+  "nearestStations": ["江北駅"],
+  "description": "自社畑で9種類のホップを育て、足立区唯一の稲作農家のもち米をラガーに使う。電気式設備で造り瓶で届ける。浅草に直営店。",
+  "openingHours": "水〜金 16:00–22:00 / 土日 12:00–22:00",
+  "closedDays": "月・火",
+  "bar": true,
+  "onlineShop": true,
+  "website": "https://store.adachibrewery.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/adachi_brewery/"
+  },
+  "products": [
+    {
+      "name": "ラガー",
+      "description": "もち米のライトラガー"
+    },
+    {
+      "name": "ピルスナー",
+      "description": "ジャーマンピルスナー"
+    },
+    {
+      "name": "IPA",
+      "description": "アメリカンIPA"
+    },
+    {
+      "name": "ポーター",
+      "description": "ロバストポーター"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/adachi-brewery-ogp.jpg",
+      "alt": "ADACHI BEER HAZY IPAの瓶6本",
+      "caption": "画像: あだちブルワリー 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/adachi-ku-brewery-guide/",
+    "https://we-love-beer.com/adachi-brewery-nishiaraihoncho/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "honeycomb-hopworks",
+  "name": "HONEYCOMB&HOPWORKS",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinjuku",
+  "area": "落合",
+  "address": "東京都新宿区上落合2-10-19 南谷アパート1F",
+  "latitude": 35.712273,
+  "longitude": 139.689835,
+  "nearestStations": ["落合駅", "下落合駅", "東中野駅"],
+  "description": "日本初のハニービール専門ブルワリー。2020年創業。蜂蜜の産地を変えて造り分ける。",
+  "openingHours": "月・木・金 18:00–23:00 / 土日祝 14:00–22:00",
+  "closedDays": "火・水",
+  "bar": true,
+  "onlineShop": true,
+  "website": "https://honeybeer-tokyo.stores.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/honeycomb_and_hopworks/"
+  },
+  "products": [
+    {
+      "name": "Honeycomb Bullet",
+      "description": "ライチの花の蜂蜜とザーツ"
+    },
+    {
+      "name": "Boom2",
+      "description": "ミャンマー産百花蜜"
+    },
+    {
+      "name": "Black Bumblebee",
+      "description": "コーヒー蜂蜜のハニーポーター"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinjuku-ku-brewery-guide/",
+    "https://we-love-beer.com/honeycomb-hopworks-ochiai/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

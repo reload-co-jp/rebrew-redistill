@@ -1,0 +1,53 @@
+{
+  "id": "kunisawa-brewing",
+  "name": "KUNISAWA BREWING Co.（國澤麦酒）",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "新橋",
+  "address": "東京都港区新橋5-31-7 Kビルディング",
+  "latitude": 35.662285,
+  "longitude": 139.755051,
+  "nearestStations": ["新橋駅", "御成門駅", "汐留駅"],
+  "description": "新橋初のクラフトビール醸造所。1971年創業の印刷会社・河内屋が運営。直営ブリューパブ「Arts Crafts KAWACHIYA」に12タップ。",
+  "openingHours": "月〜金 12:00–23:00 / 土 15:00–21:00 / 祝 15:00–20:00",
+  "closedDays": "日曜",
+  "bar": true,
+  "website": "https://www.kunisawabrewing.tokyo/",
+  "sns": {
+    "x": "https://x.com/kunisawabrewing/",
+    "instagram": "https://www.instagram.com/kunisawa_brewing/"
+  },
+  "products": [
+    {
+      "name": "シンバシ クラシック ラガー",
+      "description": "看板のラガー"
+    },
+    {
+      "name": "シンバシ クラシック ヴァイツェン",
+      "description": "ヴァイツェン"
+    },
+    {
+      "name": "シンバシ アイピーエー",
+      "description": "IPA。7%"
+    },
+    {
+      "name": "エイジド バーレイワイン",
+      "description": "1年半熟成。9.9%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kunisawa-brewing-ogp.jpg",
+      "alt": "SHIMBASHI CLASSIC LAGERの瓶",
+      "caption": "画像: KUNISAWA BREWING 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/kunisawa-brewing-shimbashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

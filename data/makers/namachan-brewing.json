@@ -1,0 +1,48 @@
+{
+  "id": "namachan-brewing",
+  "name": "NAMACHAん Brewing（大塚）",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "toshima",
+  "area": "大塚",
+  "address": "東京都豊島区南大塚1-60-19 パルムハウス103",
+  "latitude": 35.730808,
+  "longitude": 139.730469,
+  "nearestStations": ["大塚駅"],
+  "description": "豊島区で最初の醸造所。麦芽を自家燻製したラオホで世界大会を2度制した。椎名町・北池袋にも醸造所併設店。",
+  "openingHours": "火〜金 16:00–23:00 / 土 13:00–23:00 / 日祝 13:00–22:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "website": "https://smokebeerfactory.com/otsuka/",
+  "sns": {
+    "instagram": "https://www.instagram.com/namachanbrewing/"
+  },
+  "products": [
+    {
+      "name": "なまちゃんのラオホ",
+      "description": "自家燻製麦芽のスモークビール"
+    },
+    {
+      "name": "DARK FATHER",
+      "description": "ピート香の黒ビール。7.6%"
+    },
+    {
+      "name": "MIRACLE FORCE IPA",
+      "description": "ヘイジーIPA。7%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/namachan-brewing-ogp.jpg",
+      "alt": "NAMACHAん Brewingの醸造タンクの前でビールを持つスタッフ",
+      "caption": "画像: NAMACHAん Brewing 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/toshima-ku-brewery-guide/",
+    "https://we-love-beer.com/namachan-brewing-otsuka/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

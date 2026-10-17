@@ -1,0 +1,48 @@
+{
+  "id": "kanpai-brewing",
+  "name": "カンパイ！ブルーイング",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "bunkyo",
+  "area": "関口",
+  "address": "東京都文京区関口1-28-12 リバーサイドテラス1F",
+  "latitude": 35.71048,
+  "longitude": 139.72525,
+  "nearestStations": ["江戸川橋駅", "早稲田駅"],
+  "description": "神田川沿いの木造3階建て。1階がブルーパブ「Granzoo」、2・3階が醸造所。2019年開業。銘柄に文京区と新宿区の坂の名前を付ける。",
+  "openingHours": "月〜土 17:00–23:00 / 日 16:00–20:30",
+  "bar": true,
+  "website": "https://granzoo-beer.com/",
+  "products": [
+    {
+      "name": "のぞき坂ケルシュ",
+      "description": "JGBA 2020 ケルシュ部門銀賞"
+    },
+    {
+      "name": "胸突坂IPA",
+      "description": "ダブルIPA"
+    },
+    {
+      "name": "目白坂ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "暗闇坂スタウト",
+      "description": "ドライなスタウト"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kanpai-brewing-ogp.jpg",
+      "alt": "Granzooのビールグラス",
+      "caption": "画像: Granzoo 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/bunkyo-ku-brewery-guide/",
+    "https://we-love-beer.com/kanpai-brewing-sekiguchi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

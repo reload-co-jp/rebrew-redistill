@@ -1,0 +1,39 @@
+{
+  "id": "lets-beer-works",
+  "name": "Let's Beer Works",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "itabashi",
+  "area": "舟渡",
+  "address": "東京都板橋区舟渡2-19-6 戸田橋浴場ビル1-A",
+  "latitude": 35.795185,
+  "longitude": 139.689453,
+  "nearestStations": ["浮間舟渡駅"],
+  "description": "平日は会社員の造り手が土日だけ開くブルワリー。北区から移転。飲食店と一緒にビールを造る。",
+  "openingHours": "土日 13:00–19:00",
+  "closedDays": "月〜金",
+  "bar": true,
+  "website": "https://lets.beer/",
+  "products": [
+    {
+      "name": "Everyday Hue",
+      "description": "ライスラガー"
+    },
+    {
+      "name": "Meow",
+      "description": "アメリカンIPA"
+    },
+    {
+      "name": "1759",
+      "description": "アイリッシュドライスタウト"
+    }
+  ],
+  "memo": "直営タップルーム「LET'S STAR LOUNGE」が北区（東十条駅徒歩3分）に残る。土日 13:00–19:00。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/itabashi-ku-brewery-guide/",
+    "https://we-love-beer.com/lets-beer-works-funado/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

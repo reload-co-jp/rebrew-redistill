@@ -1,0 +1,31 @@
+{
+  "id": "nikubee-shinjuku-gyoen",
+  "name": "肉べぇ 新宿御苑店",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinjuku",
+  "area": "新宿御苑",
+  "address": "東京都新宿区新宿1-16-10 カテリーナネオハイツ1F",
+  "latitude": 35.690094,
+  "longitude": 139.710983,
+  "nearestStations": ["新宿御苑前駅", "新宿三丁目駅"],
+  "description": "塊肉の居酒屋。店内で自社醸造した「新宿ピルスナー」を炭火焼きと合わせる。",
+  "openingHours": "月〜金 11:30–14:00, 17:00–23:00 / 土日祝 17:00–23:00",
+  "closedDays": "不定休",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://wabisabi-en.com/nikubee/",
+  "products": [
+    {
+      "name": "新宿ピルスナー",
+      "description": "ピルスナー"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinjuku-ku-brewery-guide/",
+    "https://we-love-beer.com/nikubee-shinjuku-gyoen/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

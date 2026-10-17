@@ -1,0 +1,39 @@
+{
+  "id": "spring-valley-brewery-tokyo",
+  "name": "SPRING VALLEY BREWERY TOKYO",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "代官山",
+  "address": "東京都渋谷区代官山町13-1 ログロード代官山",
+  "latitude": 35.64986,
+  "longitude": 139.704742,
+  "nearestStations": ["代官山駅", "恵比寿駅"],
+  "description": "東急東横線の線路跡に建つキリンの醸造所。代官山限定の銘柄があり、料理と合わせる前提で造る。",
+  "openingHours": "月〜土 11:00–23:00 / 日祝 11:00–22:00",
+  "closedDays": "不定休",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.springvalleybrewery.jp/pub/tokyo/1st_floor/",
+  "products": [
+    {
+      "name": "代官山IPA",
+      "description": "日本産ホップのIPA"
+    },
+    {
+      "name": "代官山セッションエール",
+      "description": "セッションエール。4%"
+    },
+    {
+      "name": "Juicy Hop",
+      "description": "IPA"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/spring-valley-brewery-tokyo-daikanyama/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

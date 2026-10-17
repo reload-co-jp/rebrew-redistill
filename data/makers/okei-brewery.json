@@ -1,0 +1,39 @@
+{
+  "id": "okei-brewery",
+  "name": "OKEI BREWERY NIPPORI",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "arakawa",
+  "area": "日暮里",
+  "address": "東京都荒川区東日暮里5-37-4",
+  "latitude": 35.72707,
+  "longitude": 139.77594,
+  "nearestStations": ["日暮里駅"],
+  "description": "荒川区初のクラフトビール。フレンチとイタリアンの料理人が自ら醸造。インターナショナル・ビアカップで3年連続受賞。",
+  "openingHours": "月〜金・祝前日 15:00–23:00 / 土日祝 12:00–23:00",
+  "closedDays": "水曜（祝日の場合は翌日）",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.okeitokyo.com/",
+  "products": [
+    {
+      "name": "オケペ！",
+      "description": "ペールエール"
+    },
+    {
+      "name": "日暮里ケルシュ",
+      "description": "ケルシュ"
+    },
+    {
+      "name": "West Mountain IPA",
+      "description": "アメリカンIPA。7%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/arakawa-ku-brewery-guide/",
+    "https://we-love-beer.com/okei-brewery-nippori/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

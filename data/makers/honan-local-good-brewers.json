@@ -1,0 +1,53 @@
+{
+  "id": "honan-local-good-brewers",
+  "name": "HONAN LOCAL GOOD BREWERS",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "suginami",
+  "area": "方南町",
+  "address": "東京都杉並区方南2-11-7",
+  "latitude": 35.682598,
+  "longitude": 139.658203,
+  "nearestStations": ["方南町駅"],
+  "description": "方南銀座商店街の醸造所。商店街を盛り上げる取り組みから生まれ、障がいのある醸造士が働く。コーヒー抽出の技術でクリアな味を目指す。",
+  "openingHours": "月・水〜金 10:00–17:00（土日は不定期）",
+  "closedDays": "火曜",
+  "shop": true,
+  "website": "https://www.honanlocalgood.jp/",
+  "sns": {
+    "x": "https://x.com/LocalgoodHonan/",
+    "instagram": "https://www.instagram.com/honan_local_good_brewers/"
+  },
+  "products": [
+    {
+      "name": "ローカルグッドエール",
+      "description": "エール"
+    },
+    {
+      "name": "方南I.P.A",
+      "description": "IPA"
+    },
+    {
+      "name": "方南レッドエール",
+      "description": "レッドIPA"
+    },
+    {
+      "name": "方南ホワイト",
+      "description": "白ビール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/honan-local-good-brewers-ogp.jpg",
+      "alt": "HONAN LOCAL GOOD BREWERSの瓶ビールと王冠",
+      "caption": "画像: HONAN LOCAL GOOD BREWERS 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/suginami-ku-brewery-guide/",
+    "https://we-love-beer.com/honan-local-good-brewers/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

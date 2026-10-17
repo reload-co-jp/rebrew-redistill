@@ -1,0 +1,33 @@
+{
+  "id": "zero-labo",
+  "name": "ZERO LABO",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "nakano",
+  "area": "新中野",
+  "address": "東京都中野区中央5-3-11",
+  "latitude": 35.698063,
+  "longitude": 139.667374,
+  "nearestStations": ["新中野駅", "中野駅"],
+  "description": "飲食店のオリジナルビールを50Lから試せる小さな醸造所。醸造家育成とブルーパブ開業支援も行う。隣の「Tasting Bar 柴田屋酒店 本店」で飲める。",
+  "openingHours": "月〜金 11:30–22:30 / 土 12:00–22:30 / 日祝 12:00–21:30",
+  "bar": true,
+  "website": "https://sake-ya-japan.com/shop/detail.html?id=189",
+  "products": [
+    {
+      "name": "Bride Ale",
+      "description": "IPA"
+    },
+    {
+      "name": "狭山茶ラテ",
+      "description": "狭山茶の小麦ビール"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/nakano-ku-brewery-guide/",
+    "https://we-love-beer.com/zero-labo-shinnakano/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

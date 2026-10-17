@@ -1,0 +1,41 @@
+{
+  "id": "sakazuki-brewing",
+  "name": "さかづきBrewing",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "adachi",
+  "area": "北千住",
+  "address": "東京都足立区千住1-20-11",
+  "latitude": 35.748161,
+  "longitude": 139.801605,
+  "nearestStations": ["北千住駅"],
+  "description": "アサヒビール出身の醸造家が北千住の路地裏で造る。3階建てを丸ごと使い1回500Lで仕込む。銘柄に月や雲、季節の言葉を付ける。",
+  "openingHours": "水〜金 16:00–22:30 / 土祝 13:00–22:30 / 日 13:00–21:30",
+  "closedDays": "月・火",
+  "bar": true,
+  "restaurant": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/sakadukibrewing/"
+  },
+  "products": [
+    {
+      "name": "風月ペールエール",
+      "description": "イングリッシュペールエール"
+    },
+    {
+      "name": "月の杯ヴァイツェン",
+      "description": "ヴァイツェン"
+    },
+    {
+      "name": "雨夜の月",
+      "description": "スコティッシュエール"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/adachi-ku-brewery-guide/",
+    "https://we-love-beer.com/sakazuki-brewing-kitasenju/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

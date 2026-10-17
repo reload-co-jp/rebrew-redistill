@@ -1,0 +1,56 @@
+{
+  "id": "ty-harbor-brewery",
+  "name": "T.Y. HARBOR BREWERY",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinagawa",
+  "area": "天王洲",
+  "address": "東京都品川区東品川2-1-3",
+  "latitude": 35.62286,
+  "longitude": 139.747757,
+  "nearestStations": ["天王洲アイル駅"],
+  "description": "天王洲の運河沿いで1997年から造る醸造所。立ち上げから同じ醸造責任者が率い、すべて無濾過。約350席のレストランと水上ラウンジ。2026年に新醸造所「BREWS」を開いた。",
+  "openingHours": "ランチ 平日 11:30–15:00 / 土日祝 11:30–16:00、ディナー 17:30–22:00",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.tysons.jp/tyharbor/",
+  "sns": {
+    "instagram": "https://www.instagram.com/tyharbor_brewery/"
+  },
+  "products": [
+    {
+      "name": "ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "アンバーエール",
+      "description": "5種類の麦芽のアンバーエール"
+    },
+    {
+      "name": "ウィートエール",
+      "description": "ベルギースタイル"
+    },
+    {
+      "name": "インディアペールエール",
+      "description": "IPA"
+    },
+    {
+      "name": "インペリアルスタウト",
+      "description": "インペリアルスタウト"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ty-harbor-brewery-ogp.jpg",
+      "alt": "運河越しに見るT.Y. HARBORの建物",
+      "caption": "画像: T.Y. HARBOR 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinagawa-ku-brewery-guide/",
+    "https://we-love-beer.com/ty-harbor-brewery-tennozu/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

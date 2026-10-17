@@ -1,0 +1,50 @@
+{
+  "id": "cranc-brewing",
+  "name": "クランクブルーイング",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "itabashi",
+  "area": "板橋区役所前",
+  "address": "東京都板橋区板橋3-40-16 エマーレ板橋1階",
+  "latitude": 35.752934,
+  "longitude": 139.714294,
+  "nearestStations": ["板橋区役所前駅"],
+  "description": "とび職人から醸造家になった代表が小さな設備で造る。銘柄に通し番号が付き、タップが入れ替わる。トゥクトゥクで缶を配達。",
+  "openingHours": "火〜日（時間は公式Facebookで告知）",
+  "closedDays": "月曜",
+  "bar": true,
+  "website": "https://crancbrewing.com/",
+  "sns": {
+    "x": "https://x.com/crancbeer/",
+    "instagram": "https://www.instagram.com/crancbeer/",
+    "facebook": "https://www.facebook.com/crancbeer/"
+  },
+  "products": [
+    {
+      "name": "P.M.A",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "Can I Kick It?",
+      "description": "セゾン"
+    },
+    {
+      "name": "BAISU",
+      "description": "フランボワーズと梅紫蘇のサワー"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/cranc-brewing-ogp.jpg",
+      "alt": "クランクブルーイングの醸造タンク",
+      "caption": "画像: クランクブルーイング 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/itabashi-ku-brewery-guide/",
+    "https://we-love-beer.com/cranc-brewing-itabashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

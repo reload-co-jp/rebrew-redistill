@@ -1,0 +1,46 @@
+{
+  "id": "shingetsu-beer",
+  "name": "新月ビア",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinjuku",
+  "area": "神楽坂",
+  "address": "東京都新宿区箪笥町29",
+  "latitude": 35.699917,
+  "longitude": 139.73259,
+  "nearestStations": ["牛込神楽坂駅", "神楽坂駅"],
+  "description": "2021年創業のナノブルワリー。隣接の「牛込ビール館」で注ぐ。60年続く定食屋「青柳」と店舗を分け合う。6タップ。",
+  "openingHours": "平日 17:00–23:00 / 土日祝 14:00–21:00",
+  "closedDays": "月曜（不定休）",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://ushigomebeer.com/",
+  "products": [
+    {
+      "name": "Op.1 American Amber Ale",
+      "description": "アメリカンアンバーエール"
+    },
+    {
+      "name": "Op.2 American IPA I",
+      "description": "アメリカンIPA"
+    },
+    {
+      "name": "Op.4 Oatmeal Stout",
+      "description": "オートミールスタウト"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/shingetsu-beer-ogp.jpg",
+      "alt": "新月ビアのロゴ入りグラスに注いだビール",
+      "caption": "画像: 牛込ビール館 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinjuku-ku-brewery-guide/",
+    "https://we-love-beer.com/shingetsu-beer-kagurazaka/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

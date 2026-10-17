@@ -1,0 +1,44 @@
+{
+  "id": "haneda-brewery",
+  "name": "羽田ブルワリー",
+  "category": "brewery",
+  "types": ["beer", "gin"],
+  "ward": "ota",
+  "area": "矢口渡",
+  "address": "東京都大田区多摩川1-23-12 石井ビル1階",
+  "latitude": 35.561348,
+  "longitude": 139.698578,
+  "nearestStations": ["矢口渡駅"],
+  "description": "大田区で最初のビール工場。タンクも配管もほぼ手作り。羽田ビールの定番6種とクラフトジンを造り、150Lからオリジナルビールの醸造も請け負う。",
+  "website": "https://haneda-brewery.com/",
+  "sns": {
+    "x": "https://x.com/hanedabrewery/",
+    "instagram": "https://www.instagram.com/hanedabrewery/",
+    "facebook": "https://www.facebook.com/hanedabrewery/"
+  },
+  "products": [
+    {
+      "name": "ペールエール",
+      "description": "アメリカンペールエール"
+    },
+    {
+      "name": "ヴァイツェン",
+      "description": "ヘフェヴァイツェン"
+    },
+    {
+      "name": "IPA",
+      "description": "アメリカンIPA"
+    },
+    {
+      "name": "ポーター",
+      "description": "黒蜜を隠し味にしたロブストポーター"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/ota-ku-brewery-guide/",
+    "https://we-love-beer.com/haneda-brewery-yaguchinowatashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

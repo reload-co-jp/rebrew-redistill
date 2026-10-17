@@ -1,0 +1,58 @@
+{
+  "id": "dawn-brews",
+  "name": "DAWN BREWS",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "清澄白河",
+  "address": "東京都江東区清澄1-1-7 LYURO東京清澄 by THE SHARE HOTELS 2F",
+  "latitude": 35.681087,
+  "longitude": 139.792007,
+  "nearestStations": ["清澄白河駅"],
+  "description": "隅田川沿いのホテル2階、カフェレストラン「CLANN BY THE RIVER」の店内で仕込む。2024年1月から販売。銘柄は夜明けにちなむ名前。キャッシュレスのみ。",
+  "openingHours": "7:00–22:00",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://clannbytheriver.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/clann_bytheriver/",
+    "facebook": "https://www.facebook.com/CLANNBYTHERIVER/"
+  },
+  "products": [
+    {
+      "name": "AKEGATA",
+      "description": "セッションヘイジーIPA。4.2%"
+    },
+    {
+      "name": "Misfit Ale",
+      "description": "ケルシュ。4.5%"
+    },
+    {
+      "name": "Malt De Niro",
+      "description": "スコティッシュエール。6.5%"
+    },
+    {
+      "name": "Camping Nostalgia",
+      "description": "ペストリースタウト。7%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/dawn-brews-ogp.jpg",
+      "alt": "隅田川と清洲橋を背景にしたCLANNのグラスのビール",
+      "caption": "画像: CLANN BY THE RIVER 公式サイト"
+    },
+    {
+      "src": "/images/dawn-brews-2.jpg",
+      "alt": "CLANN BY THE RIVERの窓際の客席",
+      "caption": "画像: CLANN BY THE RIVER 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/dawn-brews-kiyosumi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

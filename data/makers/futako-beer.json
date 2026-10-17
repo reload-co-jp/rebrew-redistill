@@ -1,0 +1,55 @@
+{
+  "id": "futako-beer",
+  "name": "ふたこビール",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "二子玉川",
+  "address": "東京都世田谷区玉川3-13-7 柳小路南角2F",
+  "latitude": 35.613506,
+  "longitude": 139.625092,
+  "nearestStations": ["二子玉川駅"],
+  "description": "二子玉川と瀬田に2つの醸造所を持つローカルビール。住民に苗を配ってホップを育ててもらう。玉川は小ロット、瀬田は量産と受託。",
+  "openingHours": "11:30–22:00",
+  "closedDays": "第4火曜",
+  "bar": true,
+  "onlineShop": true,
+  "website": "https://futakobeer.com/pub/",
+  "sns": {
+    "instagram": "https://www.instagram.com/futakobrewery/",
+    "facebook": "https://www.facebook.com/futakomugimugi/"
+  },
+  "products": [
+    {
+      "name": "FUTAKO ALE",
+      "description": "ペールエール。5%"
+    },
+    {
+      "name": "FUTAKO LAGER",
+      "description": "ラガー。5%"
+    },
+    {
+      "name": "HANAMIZUKI WHITE",
+      "description": "ホワイトエール。4.5%"
+    },
+    {
+      "name": "FUTAKO IPA",
+      "description": "IPA。6%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/futako-beer-ogp.jpg",
+      "alt": "ふたこビールの黒ビールと淡色ビールのグラスと料理",
+      "caption": "画像: ふたこビール 公式サイト"
+    }
+  ],
+  "memo": "住所は玉川の醸造所兼パブ。瀬田醸造所は世田谷区瀬田5-2-1（水〜金 11:00–18:00 / 土日祝 14:00–20:00、月火休）。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/futako-beer-futakotamagawa/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

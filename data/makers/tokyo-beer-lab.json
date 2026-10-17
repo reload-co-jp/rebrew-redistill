@@ -1,0 +1,47 @@
+{
+  "id": "tokyo-beer-lab",
+  "name": "TOKYO BEER LAB",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "原宿",
+  "address": "東京都渋谷区神宮前3-26-5 URAHARA CENTRAL APARTMENTS 101",
+  "latitude": 35.670723,
+  "longitude": 139.708618,
+  "nearestStations": ["明治神宮前駅", "原宿駅"],
+  "description": "裏原宿のアパート1階の醸造所。タップルームのDJライブを世界へ配信。共同醸造の銘柄が並ぶ。",
+  "openingHours": "13:00–22:00",
+  "bar": true,
+  "website": "https://tokyobeerlab.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/tokyobeerlab/"
+  },
+  "products": [
+    {
+      "name": "TROPICAL PUNCH",
+      "description": "サワーIPA"
+    },
+    {
+      "name": "SEVENTH HEAVEN",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "IMPERIAL CRIMSON",
+      "description": "赤紫蘇のゴーゼ。9%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/tokyo-beer-lab-ogp.jpg",
+      "alt": "TOKYO BEER LABのTROPICAL PUNCHの缶",
+      "caption": "画像: TOKYO BEER LAB 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/tokyo-beer-lab-harajuku/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

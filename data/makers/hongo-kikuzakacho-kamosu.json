@@ -1,0 +1,40 @@
+{
+  "id": "hongo-kikuzakacho-kamosu",
+  "name": "本郷菊坂町かもす",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "bunkyo",
+  "area": "本郷",
+  "address": "東京都文京区本郷5-1-2 シャープ本郷1F",
+  "latitude": 35.708237,
+  "longitude": 139.760132,
+  "nearestStations": ["本郷三丁目駅"],
+  "description": "2023年5月開店、同年12月から自家醸造（CAMOS CLASSIC）。無濾過ビールを5タップで注ぐ。フード持ち込み自由。",
+  "openingHours": "火水 18:00–22:00 / 木金 18:00–23:00 / 土 14:00–19:30 / 日 14:00–18:30",
+  "closedDays": "月曜",
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/hk.camos/"
+  },
+  "products": [
+    {
+      "name": "菊坂 Fry Day",
+      "description": "IPA"
+    },
+    {
+      "name": "文豪パラダイス",
+      "description": "スタウト"
+    },
+    {
+      "name": "本GO Pub Rock",
+      "description": "オーディナリービター。4.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/bunkyo-ku-brewery-guide/",
+    "https://we-love-beer.com/hongo-kikuzakacho-kamosu/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

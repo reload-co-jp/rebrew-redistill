@@ -1,0 +1,44 @@
+{
+  "id": "ucciare",
+  "name": "UCCIARE!!!",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "ota",
+  "area": "矢口渡",
+  "address": "東京都大田区東矢口2-5-15",
+  "latitude": 35.565517,
+  "longitude": 139.69754,
+  "nearestStations": ["矢口渡駅"],
+  "description": "ナポリから運んだ薪窯のピッツェリア。ピッツァに合わせるためだけにビールを自家醸造する。",
+  "openingHours": "ランチ 木〜日 11:30–14:00 / ディナー 水〜金 17:30–22:00、土日 17:00–22:00",
+  "closedDays": "月・火",
+  "restaurant": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/ucciare/"
+  },
+  "products": [
+    {
+      "name": "ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "ラガー",
+      "description": "ラガー"
+    },
+    {
+      "name": "IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "セゾン",
+      "description": "セゾン"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/ota-ku-brewery-guide/",
+    "https://we-love-beer.com/ucciare-yaguchinowatashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

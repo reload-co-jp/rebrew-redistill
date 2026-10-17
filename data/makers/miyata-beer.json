@@ -14,6 +14,8 @@
   "closedDays": "月〜木曜",
   "shop": true,
   "bar": true,
+  "onlineShop": true,
+  "website": "https://miyatabeer.base.shop/",
   "sns": {
     "instagram": "https://www.instagram.com/miyatagonzales/"
   },

@@ -1,0 +1,41 @@
+{
+  "id": "hinomoto-brewing",
+  "name": "日ノモトブルーイング",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "bunkyo",
+  "area": "本駒込",
+  "address": "東京都文京区本駒込5-71-3 グリーンピア本駒込1F",
+  "latitude": 35.73362,
+  "longitude": 139.75032,
+  "nearestStations": ["駒込駅"],
+  "description": "2022年4月に神保町から移転し、同年10月に醸造免許取得。ボトルショップ兼ビアスタンド。",
+  "openingHours": "平日 17:00–23:00 / 土日祝 15:00–22:00",
+  "closedDays": "水曜",
+  "shop": true,
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/hinomotobeer/"
+  },
+  "products": [
+    {
+      "name": "晴天雷鳴IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "駒込ブラウン",
+      "description": "セゾン酵母のブラウンエール"
+    },
+    {
+      "name": "Yunosu Saison",
+      "description": "柚子のサワーセゾン"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/bunkyo-ku-brewery-guide/",
+    "https://we-love-beer.com/hinomoto-brewing-honkomagome/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

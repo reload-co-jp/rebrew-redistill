@@ -1,0 +1,29 @@
+{
+  "id": "namachan-stand-kitaikebukuro",
+  "name": "NAMACHAんスタンド 北池袋店",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "toshima",
+  "area": "北池袋",
+  "address": "東京都豊島区池袋本町4-7-4 1階",
+  "latitude": 35.740822,
+  "longitude": 139.71344,
+  "nearestStations": ["北池袋駅"],
+  "description": "NAMACHAん Brewingの第3醸造所を併設し2022年3月開業。バレルエイジドビールやコーヒービールが中心。",
+  "openingHours": "火〜金 16:00–23:00 / 土日祝 12:00–22:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "website": "https://smokebeerfactory.com/",
+  "sns": {
+    "x": "https://x.com/namasta_2/",
+    "instagram": "https://www.instagram.com/namachanstand_kitaikebukuro/",
+    "facebook": "https://www.facebook.com/namachanstand2/"
+  },
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/toshima-ku-brewery-guide/",
+    "https://we-love-beer.com/namachan-brewing-otsuka/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

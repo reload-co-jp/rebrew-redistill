@@ -1,0 +1,41 @@
+{
+  "id": "inkhorn-brewing",
+  "name": "Inkhorn Brewing",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "toshima",
+  "area": "目白",
+  "address": "東京都豊島区目白2-2-2 Mejiro222ビル1F",
+  "latitude": 35.719505,
+  "longitude": 139.712341,
+  "nearestStations": ["雑司が谷駅", "目白駅"],
+  "description": "2021年4月に醸造を始めたタップルーム兼醸造所。銘柄もラベルも鳥でそろえ、ヘイジーIPAが中心。",
+  "openingHours": "月〜金 13:00–21:00 / 土日祝 12:00–19:00",
+  "closedDays": "無休",
+  "bar": true,
+  "website": "https://inkhorn.jp/ja",
+  "sns": {
+    "instagram": "https://www.instagram.com/inkhorn_brewing/"
+  },
+  "products": [
+    {
+      "name": "Mejiro",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "Buncho",
+      "description": "アメリカンIPA"
+    },
+    {
+      "name": "Heron",
+      "description": "ダブルヘイジーIPA。7.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/toshima-ku-brewery-guide/",
+    "https://we-love-beer.com/inkhorn-brewing-mejiro/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "folkways-brewing",
+  "name": "Folkways Brewing",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "清澄白河",
+  "address": "東京都江東区平野3-6-3 長谷川ビル1F",
+  "latitude": 35.678757,
+  "longitude": 139.805038,
+  "nearestStations": ["清澄白河駅"],
+  "description": "2019年開業。銘柄に名前でなく通し番号を振る。1回300Lを月2回ほど仕込み、金〜日の3日間だけ開く8タップの小さな店。",
+  "openingHours": "金 17:00–22:00 / 土 15:00–22:00 / 日 15:00–20:00",
+  "closedDays": "月〜木",
+  "bar": true,
+  "products": [
+    {
+      "name": "#001",
+      "description": "セッションIPA。4.7%"
+    },
+    {
+      "name": "#004",
+      "description": "アメリカンIPA。6.5%"
+    },
+    {
+      "name": "#089 Gose",
+      "description": "ゴーゼ。4.5%"
+    },
+    {
+      "name": "#094 Porter",
+      "description": "ポーター。5.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/folkways-brewing-kiyosumi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "uokin-daishokudo-harumi-flag",
+  "name": "魚金大食堂 HARUMI FLAG",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "chuo",
+  "area": "晴海",
+  "address": "東京都中央区晴海5-6-7 HARUMI FLAG PARK VILLAGE タワー棟1階",
+  "latitude": 35.648293,
+  "longitude": 139.775909,
+  "nearestStations": ["勝どき駅"],
+  "description": "2025年10月開業の魚金の食堂。豊洲市場の魚介が中心。2025年11月に発泡酒免許を取得し、店で仕込んだビールを「HARUMI FLAG BEER」として缶で売る。",
+  "openingHours": "11:30–15:00, 16:00–22:00",
+  "closedDays": "年末年始",
+  "shop": true,
+  "restaurant": true,
+  "onlineShop": true,
+  "website": "https://uokingroup.jp/collections/beer",
+  "products": [
+    {
+      "name": "ベルジャンホワイト",
+      "description": "オレンジピールとコリアンダーの白ビール"
+    },
+    {
+      "name": "セッションIPA",
+      "description": "セッションIPA"
+    },
+    {
+      "name": "ウエストコーストIPA",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "レッドエール",
+      "description": "レッドエール"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/chuo-ku-brewery-guide/",
+    "https://we-love-beer.com/uokin-daishokudo-harumi-flag/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

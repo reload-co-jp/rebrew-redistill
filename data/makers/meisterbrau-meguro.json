@@ -1,0 +1,36 @@
+{
+  "id": "meisterbrau-meguro",
+  "name": "マイスターブロイ 目黒醸造所",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "meguro",
+  "area": "西小山",
+  "address": "東京都目黒区目黒本町4-20-7 ラージヒル101",
+  "latitude": 35.621456,
+  "longitude": 139.693481,
+  "nearestStations": ["西小山駅"],
+  "description": "ドイツで学んだブラウマイスターが一人で造る目黒区初の地ビール。酵母を自家培養し、瓶詰めで売る。店頭販売は金土のみ。",
+  "openingHours": "金土 17:00–21:00（店頭販売）",
+  "closedDays": "日〜木",
+  "shop": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/meisterbrau_meguro/"
+  },
+  "products": [
+    {
+      "name": "オリジナルラガー",
+      "description": "小麦麦芽とハラタウのラガー"
+    },
+    {
+      "name": "ブラックラガー",
+      "description": "黒ラガー"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/meguro-ku-brewery-guide/",
+    "https://we-love-beer.com/meisterbrau-meguro/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

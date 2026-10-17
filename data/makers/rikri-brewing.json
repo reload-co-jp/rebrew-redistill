@@ -1,0 +1,54 @@
+{
+  "id": "rikri-brewing",
+  "name": "RIKRI BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "meguro",
+  "area": "学芸大学",
+  "address": "東京都目黒区鷹番3-19-20 クロスロード鷹番1F",
+  "latitude": 35.630138,
+  "longitude": 139.683197,
+  "nearestStations": ["学芸大学駅"],
+  "description": "4つの醸造所を経て独立した20代の醸造家のタップルーム。「パイントで飲んでおいしいビール」が基準。銘柄名は音楽から。",
+  "openingHours": "平日 15:00–23:00 / 土日祝 12:00–23:00",
+  "closedDays": "不定休",
+  "bar": true,
+  "onlineShop": true,
+  "website": "https://rikribrewing.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/rikribrewing/"
+  },
+  "products": [
+    {
+      "name": "Surf Literature",
+      "description": "北ドイツスタイルのピルスナー"
+    },
+    {
+      "name": "Encore",
+      "description": "ケルシュ"
+    },
+    {
+      "name": "STORM",
+      "description": "ウエストコーストIPA"
+    },
+    {
+      "name": "Wanderlust",
+      "description": "ダブルIPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/rikri-brewing-ogp.jpg",
+      "alt": "RIKRI BREWINGのロゴ入りグラスに注いだビール",
+      "caption": "画像: RIKRI BREWING 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/meguro-ku-brewery-guide/",
+    "https://we-love-beer.com/rikri-brewing-gakugeidaigaku/",
+    "https://rikribrewing.com/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

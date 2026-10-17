@@ -1,0 +1,38 @@
+{
+  "id": "koenji-beer-kobo",
+  "name": "高円寺麦酒工房",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "suginami",
+  "area": "高円寺",
+  "address": "東京都杉並区高円寺北2-24-8",
+  "latitude": 35.707882,
+  "longitude": 139.651138,
+  "nearestStations": ["高円寺駅"],
+  "description": "住宅街の元フォトスタジオを改装した「ビール工房」の1号店。2010年から「できたて・非加熱・無濾過」で造る。高円寺や杉並の果物も使う。",
+  "openingHours": "火〜金 16:00–23:30 / 土 12:00–22:00 / 日祝 12:00–21:30",
+  "closedDays": "月曜",
+  "bar": true,
+  "website": "https://www.beerkobo.com/shop/detail.html?id=215",
+  "products": [
+    {
+      "name": "CREAM",
+      "description": "ネルソンソーヴィンの定番"
+    },
+    {
+      "name": "青ゆずセゾン",
+      "description": "セゾン"
+    },
+    {
+      "name": "Ume Wheat Pale Ale",
+      "description": "高円寺産の梅"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/suginami-ku-brewery-guide/",
+    "https://we-love-beer.com/koenji-beer-kobo/"
+  ],
+  "updatedAt": "2026-10-17",
+  "createdAt": "2026-10-17"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "beer-vista-brewery",
+  "name": "BEER VISTA BREWERY",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "清澄白河",
+  "address": "東京都江東区常盤2-13-17 トキワハイツ1F",
+  "latitude": 35.684536,
+  "longitude": 139.797714,
+  "nearestStations": ["清澄白河駅", "森下駅"],
+  "description": "製本所だった建物で2023年8月に醸造を始めたブルワリー。運営はホステルを手がけるBackpackers' Japan。30種類以上を仕込み、瓶も持ち帰れる。",
+  "openingHours": "月〜金・祝前日 16:00–22:30 / 土日祝 14:00–22:00",
+  "closedDays": "不定休",
+  "shop": true,
+  "bar": true,
+  "restaurant": true,
+  "products": [
+    {
+      "name": "TOKIWA HAZE",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "ITSUMONO",
+      "description": "ビター。4.5%"
+    },
+    {
+      "name": "VISTA LAGER",
+      "description": "ラガー。5%"
+    },
+    {
+      "name": "Firestarter",
+      "description": "スモークポーター"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/beer-vista-brewery-kiyosumi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

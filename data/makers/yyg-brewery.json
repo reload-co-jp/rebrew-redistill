@@ -1,0 +1,54 @@
+{
+  "id": "yyg-brewery",
+  "name": "Y.Y.G. Brewery & Beer Kitchen",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "代々木",
+  "address": "東京都渋谷区代々木2-18-3 オーチュー第1ビル 1F・7F",
+  "latitude": 35.686054,
+  "longitude": 139.696686,
+  "nearestStations": ["新宿駅", "南新宿駅", "代々木駅"],
+  "description": "1階で造って7階で飲むブルワリー。定番に近くの街の名前を付ける。非加熱・無濾過で瓶詰め。千葉にも醸造所。",
+  "openingHours": "火〜金 16:00–23:00 / 土 12:00–23:00 / 日祝 12:00–22:00",
+  "closedDays": "月曜（祝日の場合は翌日）",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.yygbrewery.com/brewery.html",
+  "sns": {
+    "instagram": "https://www.instagram.com/y.y.g.brewery_and_beer_kitchen/",
+    "facebook": "https://www.facebook.com/yygbrewery/"
+  },
+  "products": [
+    {
+      "name": "渋谷IPA",
+      "description": "西海岸系IPA"
+    },
+    {
+      "name": "代々木アンバーエール",
+      "description": "アンバーエール"
+    },
+    {
+      "name": "新宿ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "原宿スタウト",
+      "description": "スタウト"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/yyg-brewery-ogp.jpg",
+      "alt": "Y.Y.G.のロゴ入りグラスに注いだ渋谷IPA",
+      "caption": "画像: Y.Y.G. Brewery 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/yyg-brewery-yoyogi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

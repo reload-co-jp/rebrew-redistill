@@ -1,0 +1,40 @@
+{
+  "id": "five-trees",
+  "name": "FIVE TREES",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "meguro",
+  "area": "学芸大学",
+  "address": "東京都目黒区中央町2-35-13 東神ビル1F",
+  "latitude": 35.631477,
+  "longitude": 139.686523,
+  "nearestStations": ["学芸大学駅"],
+  "description": "プランターの老舗メーカーのショールームを兼ねるブルワリー。定番に鷹番・五本木・碑文谷と目黒の地名を付ける。",
+  "openingHours": "火〜土 17:00–22:00",
+  "closedDays": "日・月・祝",
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/fivetrees.tokyo/"
+  },
+  "products": [
+    {
+      "name": "鷹番ラガー",
+      "description": "ラガー"
+    },
+    {
+      "name": "五本木エール",
+      "description": "アメリカンペールエール"
+    },
+    {
+      "name": "碑文谷エール",
+      "description": "ダブルIPA"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/meguro-ku-brewery-guide/",
+    "https://we-love-beer.com/five-trees-gakugeidaigaku/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

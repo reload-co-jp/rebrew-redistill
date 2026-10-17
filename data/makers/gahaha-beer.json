@@ -1,0 +1,53 @@
+{
+  "id": "gahaha-beer",
+  "name": "ガハハビール",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "南砂",
+  "address": "東京都江東区南砂2-3-1-118",
+  "latitude": 35.671898,
+  "longitude": 139.823013,
+  "nearestStations": ["東陽町駅"],
+  "description": "団地1階の「ブリュー居酒屋」。2017年9月開業。醸造所名は横十間川酒造。3人の造り手で常時9〜10種類。",
+  "openingHours": "火〜金 13:00–22:00 / 土日 11:00–22:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://gahahabeer.co.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/gahahabeer/"
+  },
+  "products": [
+    {
+      "name": "馬場のブロンド",
+      "description": "ブロンドエール。4.5%"
+    },
+    {
+      "name": "マーシーIPA",
+      "description": "セッションIPA。4.5%"
+    },
+    {
+      "name": "ダンチエール",
+      "description": "ESB。5%"
+    },
+    {
+      "name": "空旅IPA",
+      "description": "アメリカンIPA。6.5%"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/gahaha-beer-ogp.jpg",
+      "alt": "ガハハビールのロゴ入りグラスに注いだビール",
+      "caption": "画像: ガハハビール 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/gahaha-beer-minamisuna/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

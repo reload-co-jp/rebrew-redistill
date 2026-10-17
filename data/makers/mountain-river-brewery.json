@@ -1,0 +1,42 @@
+{
+  "id": "mountain-river-brewery",
+  "name": "Mountain River Brewery",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "suginami",
+  "area": "久我山",
+  "address": "東京都杉並区久我山3-17-18 ウッディ久我山1階",
+  "latitude": 35.68705,
+  "longitude": 139.596451,
+  "nearestStations": ["久我山駅"],
+  "description": "瓶内二次発酵のベルギースタイルと果物のビールを造る。タップルームはないが醸造所で瓶を買え、試飲もできる。",
+  "openingHours": "月〜金 10:00–18:00 / 土 13:00–18:00",
+  "closedDays": "日曜",
+  "shop": true,
+  "onlineShop": true,
+  "website": "https://mountainriverbrewery.stores.jp/",
+  "sns": {
+    "instagram": "https://www.instagram.com/mountainriverbrewery/"
+  },
+  "products": [
+    {
+      "name": "Kugayama Blonde",
+      "description": "ブロンドエール"
+    },
+    {
+      "name": "Mountain White",
+      "description": "ホワイトビール"
+    },
+    {
+      "name": "River Saison",
+      "description": "セゾン。3%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/suginami-ku-brewery-guide/",
+    "https://we-love-beer.com/mountain-river-brewery-kugayama/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

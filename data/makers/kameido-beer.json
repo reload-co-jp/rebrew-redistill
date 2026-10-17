@@ -1,0 +1,43 @@
+{
+  "id": "kameido-beer",
+  "name": "亀戸ビア",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "亀戸",
+  "address": "東京都江東区亀戸3-4-11 アルタ藤の花101",
+  "latitude": 35.70192,
+  "longitude": 139.821579,
+  "nearestStations": ["亀戸駅", "錦糸町駅"],
+  "description": "2020年10月開業。マンチェスター出身のブルワーが亀戸の水で仕込む西海岸スタイル。銘柄名は亀戸の神社から。全銘柄を量り売りで持ち帰れる。",
+  "openingHours": "金 17:00–20:00 / 土日祝 13:00–20:00",
+  "closedDays": "月〜木",
+  "shop": true,
+  "bar": true,
+  "website": "https://www.kameidobeer.com/",
+  "products": [
+    {
+      "name": "Tenjin IPA",
+      "description": "IPA。7%"
+    },
+    {
+      "name": "Cloudy Katori",
+      "description": "ヘイジーIPA。6.5%"
+    },
+    {
+      "name": "Suijin Pale Ale",
+      "description": "シトラのペールエール。6%"
+    },
+    {
+      "name": "Sengen Brown",
+      "description": "ベルギースタイル。8.1%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/kameido-beer-kameido/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

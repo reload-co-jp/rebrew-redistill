@@ -1,0 +1,30 @@
+{
+  "id": "agartha-brewing",
+  "name": "AGARTHA BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "nerima",
+  "area": "桜台",
+  "address": "東京都練馬区桜台1-7-7 B1",
+  "latitude": 35.739658,
+  "longitude": 139.662079,
+  "nearestStations": ["桜台駅"],
+  "description": "ライブハウスのひとつ上の階で造るブルワリー。店名は地底都市アガルタから。営業は公式Instagramで告知。",
+  "sns": {
+    "x": "https://x.com/AGARTHA_Brew",
+    "instagram": "https://www.instagram.com/agartha_brewing/"
+  },
+  "products": [
+    {
+      "name": "SAISON AGARTHA",
+      "description": "セゾン"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/nerima-ku-brewery-guide/",
+    "https://we-love-beer.com/agartha-brewing-sakuradai/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

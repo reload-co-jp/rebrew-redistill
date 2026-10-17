@@ -1,0 +1,42 @@
+{
+  "id": "racines-micro-brewery",
+  "name": "ラシーヌ マイクロブリュワリー",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "北青山",
+  "address": "東京都港区北青山3-4-3 ののあおやま 1F",
+  "latitude": 35.667282,
+  "longitude": 139.712296,
+  "nearestStations": ["表参道駅", "外苑前駅"],
+  "description": "マイクロブルワリー併設のビストロ。2022年9月からビール販売。果実を使う銘柄が多く、売店で持ち帰れる。",
+  "openingHours": "11:00–16:30 / 平日 18:00–22:00 / 土日祝 17:00–22:00",
+  "closedDays": "不定休",
+  "shop": true,
+  "restaurant": true,
+  "website": "https://racines-aoyama.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/racines_aoyama/"
+  },
+  "products": [
+    {
+      "name": "RACINES FIRST SEASON",
+      "description": "セゾン"
+    },
+    {
+      "name": "日向夏ビール",
+      "description": "日向夏のヘイジーIPA"
+    },
+    {
+      "name": "桃ビール",
+      "description": "フルーツエール"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/racines-micro-brewery-aoyama/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

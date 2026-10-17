@@ -1,0 +1,53 @@
+{
+  "id": "haneda-sky-brewing",
+  "name": "HANEDA SKY BREWING",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "ota",
+  "area": "天空橋",
+  "address": "東京都大田区羽田空港1-1-4 羽田イノベーションシティ ゾーンD 2階",
+  "latitude": 35.547756,
+  "longitude": 139.753922,
+  "nearestStations": ["天空橋駅"],
+  "description": "羽田空港そばのブルワリー。全国の食材で地域連携ビールを造り、大田区の海苔やレタスも使う。カウンターから設備が見える。",
+  "openingHours": "11:00–23:00",
+  "closedDays": "無休",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.haneda.beer/haneda_sky_brewing.html",
+  "sns": {
+    "instagram": "https://www.instagram.com/haneda_sky_brewing/"
+  },
+  "products": [
+    {
+      "name": "天空IPA",
+      "description": "海苔を使ったIPA"
+    },
+    {
+      "name": "羽田レタスエール",
+      "description": "レタスのエール"
+    },
+    {
+      "name": "銭湯エール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "黒湯ビール",
+      "description": "黒湯から着想したビール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/haneda-sky-brewing-ogp.jpg",
+      "alt": "HANEDA SKY BREWINGのビールとピザなどの料理",
+      "caption": "画像: 羽田麦酒 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/ota-ku-brewery-guide/",
+    "https://we-love-beer.com/haneda-sky-brewing-tenkubashi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

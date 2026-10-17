@@ -1,0 +1,48 @@
+{
+  "id": "gotojozo",
+  "name": "後藤醸造",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "経堂",
+  "address": "東京都世田谷区経堂2-14-3 経堂OKコート1F",
+  "latitude": 35.650879,
+  "longitude": 139.634598,
+  "nearestStations": ["経堂駅"],
+  "description": "世田谷区最初のブルーパブ。東京農大出身の夫婦2人で営む立ち飲み店。季節の果物でビールを仕込む。",
+  "openingHours": "火 15:00–21:00 / 水〜土 15:00–22:00 / 日 13:00–21:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "onlineShop": true,
+  "website": "https://www.gotojozo.com/",
+  "sns": {
+    "x": "https://x.com/gotojozo/",
+    "instagram": "https://www.instagram.com/gotojozo/",
+    "facebook": "https://www.facebook.com/gotojozo/"
+  },
+  "products": [
+    {
+      "name": "経堂エール",
+      "description": "アメリカンペールエール。5.5%"
+    },
+    {
+      "name": "経堂IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "ジンジャーエールビール",
+      "description": "高知県産生姜"
+    },
+    {
+      "name": "い草ペールエール",
+      "description": "熊本県八代のい草"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/gotojozo-brewery-kyodo/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

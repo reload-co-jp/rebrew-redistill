@@ -1,0 +1,54 @@
+{
+  "id": "edo-tokyo-beer",
+  "name": "江戸東京ビール",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "住吉",
+  "address": "東京都江東区千田16-2",
+  "latitude": 35.681965,
+  "longitude": 139.816177,
+  "nearestStations": ["住吉駅"],
+  "description": "ブルーパブ「EDO TOKYO BEER ON TAP」で造るナノブルワリー。2018年4月に自家醸造開始。75Lのタンクで年30種類。非熱処理・無ろ過。容器持参で量り売り可。",
+  "openingHours": "水〜金 17:00–23:00 / 土 15:00–22:00",
+  "closedDays": "月・火・日・祝",
+  "bar": true,
+  "website": "https://edo-tokyo-beer.com/",
+  "sns": {
+    "x": "https://x.com/edo_tokyo_beer/",
+    "instagram": "https://www.instagram.com/OnTap_EdoTokyoBeer/",
+    "facebook": "https://www.facebook.com/edo.tokyo.beer/"
+  },
+  "products": [
+    {
+      "name": "千田ゴールデン",
+      "description": "ゴールデンエール"
+    },
+    {
+      "name": "Straight Ahead IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "深川スパークリング",
+      "description": "小麦のハイブリッド。7.5%"
+    },
+    {
+      "name": "ビター",
+      "description": "イングリッシュペールエール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/edo-tokyo-beer-ogp.jpg",
+      "alt": "EDO TOKYO BEER ON TAPのビールタップ",
+      "caption": "画像: 江戸東京ビール 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/edo-tokyo-beer-sumiyoshi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

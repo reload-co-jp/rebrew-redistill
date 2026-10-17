@@ -1,0 +1,46 @@
+{
+  "id": "re-beer",
+  "name": "RE.beer",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "ota",
+  "area": "池上",
+  "address": "東京都大田区池上4-31-16 プロスペレ池上1階",
+  "latitude": 35.573139,
+  "longitude": 139.703964,
+  "nearestStations": ["池上駅"],
+  "description": "池上本門寺通りのブリューパブ。設備まで大田区内で組み立てた。和食に合わせて珍しい副原料で仕込み、瓶で持ち帰れる。",
+  "openingHours": "11:30–23:00",
+  "closedDays": "無休",
+  "shop": true,
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.haneda.beer/re_beer.html",
+  "sns": {
+    "instagram": "https://www.instagram.com/re.beer.brewpub/"
+  },
+  "products": [
+    {
+      "name": "柚子味噌さんぽエール",
+      "description": "柚子と味噌と海苔のペールエール"
+    },
+    {
+      "name": "天空IPA",
+      "description": "軽めのIPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/re-beer-ogp.jpg",
+      "alt": "RE.beerのビールと和食の料理",
+      "caption": "画像: 羽田麦酒 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/ota-ku-brewery-guide/",
+    "https://we-love-beer.com/re-beer-ikegami/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

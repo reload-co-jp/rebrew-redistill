@@ -1,0 +1,44 @@
+{
+  "id": "yona-yona-tokyo-brewery",
+  "name": "YONA YONA TOKYO BREWERY",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "minato",
+  "area": "品川",
+  "address": "東京都港区港南2-15-2 品川インターシティ S&R棟 B1F",
+  "latitude": 35.626335,
+  "longitude": 139.742004,
+  "nearestStations": ["品川駅"],
+  "description": "2026年3月開業。ヤッホーブルーイングとワンダーテーブルの協業。約200席の醸造所併設レストラン。",
+  "openingHours": "月〜金 11:30–15:00, 17:00–23:00 / 土日祝 11:30–23:00",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://yonayonatokyobrewery.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/yonayonatokyobrewery/"
+  },
+  "products": [
+    {
+      "name": "Gate One",
+      "description": "ホップの柑橘感を重ねたピルスナー"
+    },
+    {
+      "name": "よなよなエール",
+      "description": "アメリカンペールエール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/yona-yona-tokyo-brewery-ogp.jpg",
+      "alt": "YONA YONA TOKYO BREWERYでタップから注がれるビール",
+      "caption": "画像: YONA YONA TOKYO BREWERY 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/minato-ku-brewery-guide/",
+    "https://we-love-beer.com/yona-yona-tokyo-brewery-shinagawa/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

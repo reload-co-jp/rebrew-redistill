@@ -1,0 +1,39 @@
+{
+  "id": "beer-kobo-shinjuku",
+  "name": "ビール工房 新宿",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinjuku",
+  "area": "西新宿",
+  "address": "東京都新宿区西新宿1-26-2 新宿野村ビル B2F",
+  "latitude": 35.692776,
+  "longitude": 139.696732,
+  "nearestStations": ["西新宿駅", "都庁前駅", "新宿駅"],
+  "description": "新宿野村ビル地下2階。運営は麦酒企画。店とタンクが直結し常時10種類ほど。自家製ソーセージとフィッシュ＆チップスが看板。",
+  "openingHours": "月〜金 15:00–22:30 / 土 12:00–21:00 / 祝 15:00–21:00",
+  "closedDays": "日曜",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.beerkobo.com/shop/detail.html?id=246",
+  "products": [
+    {
+      "name": "Shinjuku Galaxy",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "白獅子",
+      "description": "ホワイトIPA"
+    },
+    {
+      "name": "あおじそセッションエール",
+      "description": "青じそのセッションIPA"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinjuku-ku-brewery-guide/",
+    "https://we-love-beer.com/beer-kobo-shinjuku/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

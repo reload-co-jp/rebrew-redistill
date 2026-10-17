@@ -1,0 +1,35 @@
+{
+  "id": "nihonbashi-brewery",
+  "name": "NIHONBASHI BREWERY 人形町店",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "chuo",
+  "area": "人形町",
+  "address": "東京都中央区日本橋富沢町10-13 WORKEDITION NIHONBASHI",
+  "latitude": 35.689735,
+  "longitude": 139.782669,
+  "nearestStations": ["人形町駅", "東日本橋駅"],
+  "description": "店内に醸造設備を置くブルワリー。タップルームから設備を眺めながら飲める。常時12〜13種類。料理はピザなどのイタリアン。",
+  "openingHours": "月〜木 11:00–14:00, 17:00–23:00 / 金土 11:00–23:00 / 日祝 11:00–22:00",
+  "closedDays": "不定休",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://www.zot-inc.com/shops/",
+  "sns": {
+    "instagram": "https://www.instagram.com/nihonbashi_brewery_ningyo/"
+  },
+  "images": [
+    {
+      "src": "/images/nihonbashi-brewery-ogp.jpg",
+      "alt": "NIHONBASHI BREWERY 人形町店の外観",
+      "caption": "画像: ZOT 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/chuo-ku-brewery-guide/",
+    "https://we-love-beer.com/nihonbashi-brewery-guide/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

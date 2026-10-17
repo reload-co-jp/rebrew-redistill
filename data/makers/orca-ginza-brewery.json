@@ -1,0 +1,53 @@
+{
+  "id": "orca-ginza-brewery",
+  "name": "orca 銀座醸造所",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "chuo",
+  "area": "銀座",
+  "address": "東京都中央区銀座8-11-12 正金ビルB1",
+  "latitude": 35.667732,
+  "longitude": 139.762619,
+  "nearestStations": ["新橋駅", "銀座駅"],
+  "description": "銀座8丁目の地下にあるナノブルワリー。2024年4月開業。80Lの小タンクで仕込み、ビールはほぼ店内限定。自然派ワインも出す。",
+  "openingHours": "月〜金 16:00–23:00 / 土祝 14:00–22:00",
+  "closedDays": "日曜",
+  "bar": true,
+  "website": "https://brewinbar.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/ginzabrewery/",
+    "facebook": "https://www.facebook.com/brewinbar/"
+  },
+  "products": [
+    {
+      "name": "銀座IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "銀座ラガー",
+      "description": "ラガー"
+    },
+    {
+      "name": "オーディナリービター",
+      "description": "ビター"
+    },
+    {
+      "name": "栗シュバルツ",
+      "description": "栗を使ったシュバルツ"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/orca-ginza-brewery-ogp.jpg",
+      "alt": "orca 銀座醸造所の3種類のビール",
+      "caption": "画像: orca 銀座醸造所 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/chuo-ku-brewery-guide/",
+    "https://we-love-beer.com/orca-ginza-brewery-guide-2/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

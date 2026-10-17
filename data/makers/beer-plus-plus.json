@@ -1,0 +1,46 @@
+{
+  "id": "beer-plus-plus",
+  "name": "Beer++（ビアプラスプラス）",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "kita",
+  "area": "十条",
+  "address": "東京都北区上十条2-7-13",
+  "latitude": 35.759251,
+  "longitude": 139.722214,
+  "nearestStations": ["十条駅"],
+  "description": "北区唯一のクラフトビール醸造所。1回150〜180Lの小さな仕込みで、果物やスパイスも使い銘柄を入れ替え続ける。",
+  "openingHours": "火〜金 17:00–23:00 / 土日祝 14:00–22:00",
+  "closedDays": "月曜",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://beerplusplus.owst.jp/",
+  "products": [
+    {
+      "name": "十銀コモン",
+      "description": "カリフォルニアコモン"
+    },
+    {
+      "name": "アンバーエール",
+      "description": "アンバーエール"
+    },
+    {
+      "name": "目覚ましIPA",
+      "description": "ベルジャンIPA"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/beer-plus-plus-ogp.jpg",
+      "alt": "Beer++のビールと料理が並ぶテーブル",
+      "caption": "画像: Beer++ 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/kita-ku-brewery-guide/",
+    "https://we-love-beer.com/beer-plus-plus-jujo/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "logram-brewing",
+  "name": "Logram Brewing",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "setagaya",
+  "area": "深沢",
+  "address": "東京都世田谷区深沢5-1-8 ハマックスビル1F",
+  "latitude": 35.617779,
+  "longitude": 139.651703,
+  "nearestStations": ["等々力駅", "尾山台駅"],
+  "description": "デザイン会社の2人が深沢の住宅街で始めたブルワリー。定番を置かず毎回銘柄名が変わる。8タップに自家醸造と各地のビール。",
+  "bar": true,
+  "sns": {
+    "instagram": "https://www.instagram.com/celab_by_logrambrewing/"
+  },
+  "products": [
+    {
+      "name": "Elderflower",
+      "description": "セゾン。6.5%"
+    },
+    {
+      "name": "Nelson Sauvin",
+      "description": "アメリカンIPA。6%"
+    },
+    {
+      "name": "High Income",
+      "description": "アンバーラガー。6.5%"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/setagaya-ku-brewery-guide/",
+    "https://we-love-beer.com/logram-brewing-fukasawa/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

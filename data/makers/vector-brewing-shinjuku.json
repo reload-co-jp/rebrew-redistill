@@ -1,0 +1,42 @@
+{
+  "id": "vector-brewing-shinjuku",
+  "name": "VECTOR BREWING 新宿醸造所",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shinjuku",
+  "area": "新宿御苑",
+  "address": "東京都新宿区新宿1-36-5 新宿ホテルパークイン1F",
+  "latitude": 35.690567,
+  "longitude": 139.710114,
+  "nearestStations": ["新宿御苑前駅"],
+  "description": "2016年設立、新宿区で最初の醸造所。定番を決めず毎回違うレシピを試す。直営「御苑サカバベクター」で10前後のタップ。",
+  "openingHours": "平日 17:00–23:30 / 土日 16:00–23:00",
+  "closedDays": "不定休",
+  "bar": true,
+  "website": "https://lifeart-navi.com/locations/vectorbeer-shinjuku/",
+  "sns": {
+    "instagram": "https://www.instagram.com/gyoensakaba_vector/"
+  },
+  "products": [
+    {
+      "name": "ねこぱんち",
+      "description": "小麦のペールエール"
+    },
+    {
+      "name": "TomCatHazyIPA",
+      "description": "ヘイジーIPA"
+    },
+    {
+      "name": "黒猫鳳拳",
+      "description": "ウエストコーストIPA"
+    }
+  ],
+  "memo": "住所は直営店「御苑サカバベクター」。23区ガイドは醸造所を「川本ビル1階」と記載。",
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shinjuku-ku-brewery-guide/",
+    "https://we-love-beer.com/vector-brewing-shinjuku/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

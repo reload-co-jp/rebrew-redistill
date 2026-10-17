@@ -1,0 +1,49 @@
+{
+  "id": "heiwa-doburoku-kabutocho",
+  "name": "平和どぶろく兜町醸造所",
+  "category": "brewery",
+  "types": ["beer", "other-brewed"],
+  "ward": "chuo",
+  "area": "日本橋兜町",
+  "address": "東京都中央区日本橋兜町8-5 KITOKI 1階",
+  "latitude": 35.68137,
+  "longitude": 139.777985,
+  "nearestStations": ["茅場町駅", "日本橋駅"],
+  "description": "和歌山の酒蔵・平和酒造が手がけるブルーパブ。店内でどぶろくとビールを仕込む。平和クラフトの定番ビールや日本酒「紀土」も飲める。",
+  "openingHours": "平日 13:00–22:30 / 土 12:00–22:30 / 日・連休最終日 12:00–21:00",
+  "closedDays": "無休",
+  "bar": true,
+  "website": "https://www.heiwashuzou.co.jp/heiwa-doburoku-kabutocho",
+  "sns": {
+    "x": "https://x.com/heiwashuzou/",
+    "instagram": "https://www.instagram.com/heiwashuzou/"
+  },
+  "products": [
+    {
+      "name": "どぶろく",
+      "description": "店内醸造のどぶろく"
+    },
+    {
+      "name": "平和クラフト ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "平和クラフト 山椒ゴールデン・エール",
+      "description": "山椒を使ったゴールデンエール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/heiwa-doburoku-kabutocho-ogp.jpg",
+      "alt": "平和どぶろく兜町醸造所の外観",
+      "caption": "画像: 平和酒造 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/chuo-ku-brewery-guide/",
+    "https://we-love-beer.com/heiwa-craft-beer-kabutocho/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

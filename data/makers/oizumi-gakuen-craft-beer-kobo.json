@@ -1,0 +1,45 @@
+{
+  "id": "oizumi-gakuen-craft-beer-kobo",
+  "name": "大泉学園クラフトビール工房",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "nerima",
+  "area": "大泉学園",
+  "address": "東京都練馬区東大泉1-30-15 1F",
+  "latitude": 35.749916,
+  "longitude": 139.586853,
+  "nearestStations": ["大泉学園駅"],
+  "description": "練馬区初の醸造所。定番に「練馬」の名前を付け、季節限定も仕込む。",
+  "openingHours": "12:00–24:00（日祝は23:00まで）",
+  "closedDays": "無休",
+  "bar": true,
+  "website": "https://oizumi-craft.com/",
+  "products": [
+    {
+      "name": "練馬IPA",
+      "description": "IPA"
+    },
+    {
+      "name": "練馬ペールエール",
+      "description": "ペールエール"
+    },
+    {
+      "name": "練馬セゾン",
+      "description": "セゾン"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/oizumi-gakuen-craft-beer-kobo-ogp.jpg",
+      "alt": "大泉学園クラフトビール工房の外観",
+      "caption": "画像: 大泉学園クラフトビール工房 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/nerima-ku-brewery-guide/",
+    "https://we-love-beer.com/oizumi-gakuen-craft-beer-kobo/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

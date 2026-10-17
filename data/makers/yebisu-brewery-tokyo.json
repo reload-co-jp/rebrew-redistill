@@ -1,0 +1,48 @@
+{
+  "id": "yebisu-brewery-tokyo",
+  "name": "YEBISU BREWERY TOKYO",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "shibuya",
+  "area": "恵比寿",
+  "address": "東京都渋谷区恵比寿4-20-1 恵比寿ガーデンプレイス内",
+  "latitude": 35.643589,
+  "longitude": 139.712357,
+  "nearestStations": ["恵比寿駅"],
+  "description": "恵比寿ガーデンプレイスで36年ぶりに再開したヱビスの醸造所。ミュージアム・ブルワリー・タップルームが1か所にそろう。",
+  "closedDays": "火曜（祝日の場合は翌日）・年末年始",
+  "visitable": true,
+  "bar": true,
+  "website": "https://www.sapporobeer.jp/brewery/y_museum/",
+  "sns": {
+    "x": "https://x.com/ybt_timely_info/"
+  },
+  "products": [
+    {
+      "name": "ヱビス ∞（インフィニティ）",
+      "description": "恵比寿の酵母でよみがえった通年銘柄"
+    },
+    {
+      "name": "ヱビス ∞ ブラック",
+      "description": "黒ビール"
+    },
+    {
+      "name": "Foggy Ale",
+      "description": "エール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/yebisu-brewery-tokyo-ogp.jpg",
+      "alt": "YEBISU BREWERY TOKYOのエントランス",
+      "caption": "画像: サッポロビール 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/shibuya-ku-brewery-guide/",
+    "https://we-love-beer.com/yebisu-brewery-tokyo-ebisu/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

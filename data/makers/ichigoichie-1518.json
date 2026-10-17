@@ -1,0 +1,53 @@
+{
+  "id": "ichigoichie-1518",
+  "name": "1518",
+  "category": "brewery",
+  "types": ["beer"],
+  "ward": "koto",
+  "area": "住吉",
+  "address": "東京都江東区住吉1-5-1 1F",
+  "latitude": 35.68837,
+  "longitude": 139.811356,
+  "nearestStations": ["住吉駅"],
+  "description": "2023年開店のクラフトビール店が2026年5月にブルワリーパブ化。併設の「一伍一（いこい）醸造所」で仕込む。全面ガラス越しに仕込みが見える。料理はおでんと焼売。",
+  "openingHours": "水〜土 17:00–23:00 / 日 17:00–22:00",
+  "closedDays": "月・火",
+  "bar": true,
+  "restaurant": true,
+  "website": "https://beer1518.com/",
+  "sns": {
+    "instagram": "https://www.instagram.com/craftbeer1518/"
+  },
+  "products": [
+    {
+      "name": "一道〜ヒトスジ〜",
+      "description": "和柑橘が香るゴールデンエール"
+    },
+    {
+      "name": "伍縁〜ゴエン〜",
+      "description": "バナナのような香りの一杯"
+    },
+    {
+      "name": "一醸〜イチジョウ〜",
+      "description": "力強い苦みのビール"
+    },
+    {
+      "name": "八福〜ハップク〜",
+      "description": "軽い黒ビール"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ichigoichie-1518-ogp.jpg",
+      "alt": "1518の3種類のビール",
+      "caption": "画像: 1518 公式サイト"
+    }
+  ],
+  "sourceUrls": [
+    "https://we-love-beer.com/tokyo-23-wards-brewery-guide/",
+    "https://we-love-beer.com/koto-ku-brewery-guide/",
+    "https://we-love-beer.com/ichigoichie-1518-sumiyoshi/"
+  ],
+  "createdAt": "2026-10-17",
+  "updatedAt": "2026-10-17"
+}

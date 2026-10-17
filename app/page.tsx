@@ -27,8 +27,13 @@ const Page = async () => {
           description: SUBCOPY,
         }}
       />
-      <section className="-mx-4 -mt-10 bg-ink px-4 py-28 text-paper sm:py-40">
-        <div className="mx-auto max-w-6xl">
+      <section className="relative -mx-4 -mt-10 overflow-hidden bg-ink px-4 py-28 text-paper sm:py-40">
+        <img
+          src="/images/hero.jpg"
+          alt=""
+          className="absolute inset-0 h-full w-full object-cover opacity-50"
+        />
+        <div className="relative mx-auto max-w-6xl">
           <p className="text-sm tracking-[0.3em] uppercase opacity-70">
             {SITE_NAME}
           </p>

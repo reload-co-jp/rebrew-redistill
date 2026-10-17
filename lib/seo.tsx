@@ -8,6 +8,8 @@ export const SITE_URL = (
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://rbrd.reload.co.jp"
 ).replace(/\/$/, "")
 
+export const DEFAULT_IMAGE = "/images/hero.jpg"
+
 export const pageMeta = (
   title: string,
   description: string,
@@ -24,8 +26,9 @@ export const pageMeta = (
     siteName: SITE_NAME,
     locale: "ja_JP",
     type: "website",
-    ...(image && { images: [image] }),
+    images: [image ?? DEFAULT_IMAGE],
   },
+  twitter: { card: "summary_large_image" },
 })
 
 export const JsonLd = ({ data }: { data: object }) => (

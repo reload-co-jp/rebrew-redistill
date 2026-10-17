@@ -3,7 +3,14 @@ import { ArticleGrid } from "@/components/articles/article-card"
 import { Section } from "@/components/elements/layout"
 import { MakerGrid } from "@/components/makers/maker-card"
 import { getArticle, getArticles, getMaker, getMakers } from "@/lib/data"
-import { Breadcrumbs, JsonLd, SITE_NAME, SITE_URL, pageMeta } from "@/lib/seo"
+import {
+  Breadcrumbs,
+  DEFAULT_IMAGE,
+  JsonLd,
+  SITE_NAME,
+  SITE_URL,
+  pageMeta,
+} from "@/lib/seo"
 
 type Props = { params: Promise<{ article: string }> }
 
@@ -30,7 +37,7 @@ export const generateMetadata = async ({ params }: Props) => {
       type: "article",
       publishedTime: article.publishedAt,
       modifiedTime: article.updatedAt,
-      ...(article.thumbnail && { images: [article.thumbnail] }),
+      images: [article.thumbnail ?? DEFAULT_IMAGE],
     },
   }
 }

@@ -103,6 +103,15 @@ const Page = async ({ params }: Props) => {
           }),
           openingHours: m.openingHours,
           sameAs: [m.website, ...sns].filter(Boolean),
+          makesOffer: m.products?.map((p) => ({
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Product",
+              name: p.name,
+              description: p.description,
+              category: p.type,
+            },
+          })),
         }}
       />
       <Breadcrumbs

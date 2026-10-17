@@ -50,6 +50,7 @@ export const Editor = ({
   const router = useRouter()
   const [current, setCurrent] = useState<DataFile | null>(null)
   const [message, setMessage] = useState("")
+  const [saved, setSaved] = useState(0) // 保存毎にプレビュー再読込
   const textarea = useRef<HTMLTextAreaElement>(null)
 
   const open = (f: DataFile) => {
@@ -66,6 +67,7 @@ export const Editor = ({
   const save = async () => {
     const error = await api("PUT", current)
     setMessage(error ?? `保存: ${current.path}`)
+    setSaved(Date.now())
     router.refresh()
   }
   const remove = async () => {
@@ -189,15 +191,24 @@ export const Editor = ({
                 保存
               </button>
             </div>
-            <textarea
-              ref={textarea}
-              aria-label="内容"
-              className="h-[70vh] w-full border border-line bg-white p-3 font-mono text-sm"
-              value={current.content}
-              onChange={(e) =>
-                setCurrent({ ...current, content: e.target.value })
-              }
-            />
+            <div className="grid gap-4 xl:grid-cols-2">
+              <textarea
+                ref={textarea}
+                aria-label="内容"
+                className="h-[70vh] w-full border border-line bg-white p-3 font-mono text-sm"
+                value={current.content}
+                onChange={(e) =>
+                  setCurrent({ ...current, content: e.target.value })
+                }
+              />
+              {/* 保存済みの実ページを表示（未保存の新規は 404） */}
+              <iframe
+                key={`${current.path}-${saved}`}
+                title="プレビュー"
+                src={`/${current.path.replace(/\.(json|mdx)$/, "")}/`}
+                className="h-[70vh] w-full border border-line bg-white"
+              />
+            </div>
           </>
         )}
       </div>

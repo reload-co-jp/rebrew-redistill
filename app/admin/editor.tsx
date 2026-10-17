@@ -2,8 +2,20 @@
 
 import { useRouter } from "next/navigation"
 import { useRef, useState } from "react"
+import type { Maker } from "@/lib/data"
+import { MakerForm } from "./maker-form"
 
 type DataFile = { path: string; content: string }
+
+const stringify = (o: object) => JSON.stringify(o, null, 2) + "\n"
+
+const parse = (content: string) => {
+  try {
+    return JSON.parse(content) as Maker
+  } catch {
+    return null
+  }
+}
 
 const today = () => new Date().toISOString().slice(0, 10)
 
@@ -51,7 +63,11 @@ export const Editor = ({
   const [current, setCurrent] = useState<DataFile | null>(null)
   const [message, setMessage] = useState("")
   const [saved, setSaved] = useState(0) // 保存毎にプレビュー再読込
+  const [form, setForm] = useState(true) // makers: フォーム / JSON 切替
   const textarea = useRef<HTMLTextAreaElement>(null)
+  // 壊れた JSON はフォーム表示不可 → テキスト編集にフォールバック
+  const maker =
+    form && current?.path.endsWith(".json") ? parse(current.content) : null
 
   const open = (f: DataFile) => {
     setCurrent(f)
@@ -89,6 +105,15 @@ export const Editor = ({
   }
   // カーソル位置に画像パスを挿入（MDX は Markdown 画像記法）
   const insert = (src: string) => {
+    // フォーム表示中は images に追加
+    if (maker)
+      return setCurrent({
+        ...current,
+        content: stringify({
+          ...maker,
+          images: [...(maker.images ?? []), { src, alt: "" }],
+        }),
+      })
     const text = current.path.endsWith(".mdx") ? `![](${src})` : src
     const { selectionStart: a, selectionEnd: b } = textarea.current
     const c = current.content
@@ -171,6 +196,14 @@ export const Editor = ({
           <>
             <div className="mb-2 flex items-center gap-4 text-sm">
               <code className="flex-1">data/{current.path}</code>
+              {current.path.endsWith(".json") && (
+                <button
+                  className="border border-line px-3 py-1"
+                  onClick={() => setForm(!form)}
+                >
+                  {form ? "JSON" : "フォーム"}
+                </button>
+              )}
               <label className="cursor-pointer border border-line px-3 py-1">
                 画像
                 <input
@@ -192,15 +225,25 @@ export const Editor = ({
               </button>
             </div>
             <div className="grid gap-4 xl:grid-cols-2">
-              <textarea
-                ref={textarea}
-                aria-label="内容"
-                className="h-[70vh] w-full border border-line bg-white p-3 font-mono text-sm"
-                value={current.content}
-                onChange={(e) =>
-                  setCurrent({ ...current, content: e.target.value })
-                }
-              />
+              {maker ? (
+                <MakerForm
+                  maker={maker}
+                  images={images}
+                  onChange={(m) =>
+                    setCurrent({ ...current, content: stringify(m) })
+                  }
+                />
+              ) : (
+                <textarea
+                  ref={textarea}
+                  aria-label="内容"
+                  className="h-[70vh] w-full border border-line bg-white p-3 font-mono text-sm"
+                  value={current.content}
+                  onChange={(e) =>
+                    setCurrent({ ...current, content: e.target.value })
+                  }
+                />
+              )}
               {/* 保存済みの実ページを表示（未保存の新規は 404） */}
               <iframe
                 key={`${current.path}-${saved}`}

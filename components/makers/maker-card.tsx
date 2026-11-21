@@ -10,17 +10,13 @@ export const FEATURES = [
   ["onlineShop", "オンライン販売"],
 ] as const
 
-export const Thumb = ({ src, alt }: { src?: string; alt: string }) =>
-  src ? (
-    <img src={src} alt={alt} className="aspect-[4/3] w-full object-cover" />
-  ) : (
-    <div
-      aria-hidden
-      className="flex aspect-[4/3] w-full items-end bg-ink p-3 text-xs tracking-widest text-paper/60 uppercase"
-    >
-      No photo yet
-    </div>
-  )
+export const Thumb = ({ src, alt }: { src?: string; alt: string }) => (
+  <img
+    src={src ?? "/images/placeholder.png"}
+    alt={src ? alt : ""}
+    className="aspect-[4/3] w-full object-cover"
+  />
+)
 
 export const MakerCard = ({ maker }: { maker: Maker }) => (
   <article>

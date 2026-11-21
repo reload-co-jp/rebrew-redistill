@@ -32,6 +32,11 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => (
       <Script id="ga" strategy="afterInteractive">
         {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-G5E3K7JD4L');`}
       </Script>
+      <Script
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6542845006087970"
+        strategy="afterInteractive"
+        crossOrigin="anonymous"
+      />
     </body>
   </html>
 )

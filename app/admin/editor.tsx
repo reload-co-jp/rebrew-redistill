@@ -1,6 +1,6 @@
 "use client"
 
-import { useRouter } from "next/navigation"
+import { useRouter, useSearchParams } from "next/navigation"
 import { useRef, useState } from "react"
 import type { Maker } from "@/lib/data"
 import { MakerForm } from "./maker-form"
@@ -60,7 +60,11 @@ export const Editor = ({
   images: string[]
 }) => {
   const router = useRouter()
-  const [current, setCurrent] = useState<DataFile | null>(null)
+  // ?path=makers/xxx.json で該当ファイルを開いた状態で表示
+  const path = useSearchParams().get("path")
+  const [current, setCurrent] = useState<DataFile | null>(
+    files.find((f) => f.path === path) ?? null
+  )
   const [message, setMessage] = useState("")
   const [saved, setSaved] = useState(0) // 保存毎にプレビュー再読込
   const [form, setForm] = useState(true) // makers: フォーム / JSON 切替

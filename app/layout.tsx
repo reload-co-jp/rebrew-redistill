@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import Script from "next/script"
+import { EditLink } from "@/components/elements/edit-link"
 import { Footer, Header } from "@/components/elements/layout"
 import { DEFAULT_IMAGE, SITE_NAME, SITE_URL, SUBCOPY, TAGLINE } from "@/lib/seo"
 import "./globals.css"
@@ -23,6 +24,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => (
       <Header />
       <main className="mx-auto max-w-6xl px-4 py-10">{children}</main>
       <Footer />
+      {process.env.NODE_ENV === "development" && <EditLink />}
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-G5E3K7JD4L"
         strategy="afterInteractive"
